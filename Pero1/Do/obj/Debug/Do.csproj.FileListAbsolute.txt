@@ -1,7 +1,0 @@
-C:\Users\Stefan\source\repos\Pero1\Do\bin\Debug\Do.exe.config
-C:\Users\Stefan\source\repos\Pero1\Do\bin\Debug\Do.exe
-C:\Users\Stefan\source\repos\Pero1\Do\bin\Debug\Do.pdb
-C:\Users\Stefan\source\repos\Pero1\Do\obj\Debug\Do.csprojAssemblyReference.cache
-C:\Users\Stefan\source\repos\Pero1\Do\obj\Debug\Do.csproj.CoreCompileInputs.cache
-C:\Users\Stefan\source\repos\Pero1\Do\obj\Debug\Do.exe
-C:\Users\Stefan\source\repos\Pero1\Do\obj\Debug\Do.pdb

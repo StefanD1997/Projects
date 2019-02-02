@@ -1,6 +1,0 @@
-C:\Users\Stefan\source\repos\Pero1\10.1.2-V za tabela\bin\Debug\10.1.2-V za tabela.exe.config
-C:\Users\Stefan\source\repos\Pero1\10.1.2-V za tabela\bin\Debug\10.1.2-V za tabela.exe
-C:\Users\Stefan\source\repos\Pero1\10.1.2-V za tabela\bin\Debug\10.1.2-V za tabela.pdb
-C:\Users\Stefan\source\repos\Pero1\10.1.2-V za tabela\obj\Debug\10.1.2-V za tabela.csproj.CoreCompileInputs.cache
-C:\Users\Stefan\source\repos\Pero1\10.1.2-V za tabela\obj\Debug\10.1.2-V za tabela.exe
-C:\Users\Stefan\source\repos\Pero1\10.1.2-V za tabela\obj\Debug\10.1.2-V za tabela.pdb

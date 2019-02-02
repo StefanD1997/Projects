@@ -1,6 +1,0 @@
-C:\Users\Stefan\source\repos\Pero1\9.1.3-Pf+Pv Nipe\bin\Debug\9.1.3-Pf+Pv Nipe.exe.config
-C:\Users\Stefan\source\repos\Pero1\9.1.3-Pf+Pv Nipe\bin\Debug\9.1.3-Pf+Pv Nipe.exe
-C:\Users\Stefan\source\repos\Pero1\9.1.3-Pf+Pv Nipe\bin\Debug\9.1.3-Pf+Pv Nipe.pdb
-C:\Users\Stefan\source\repos\Pero1\9.1.3-Pf+Pv Nipe\obj\Debug\9.1.3-Pf+Pv Nipe.csproj.CoreCompileInputs.cache
-C:\Users\Stefan\source\repos\Pero1\9.1.3-Pf+Pv Nipe\obj\Debug\9.1.3-Pf+Pv Nipe.exe
-C:\Users\Stefan\source\repos\Pero1\9.1.3-Pf+Pv Nipe\obj\Debug\9.1.3-Pf+Pv Nipe.pdb

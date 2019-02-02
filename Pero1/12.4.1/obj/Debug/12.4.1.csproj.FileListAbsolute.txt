@@ -1,6 +1,0 @@
-C:\Users\Stefan\source\repos\Pero1\12.4.1\bin\Debug\12.4.1.exe.config
-C:\Users\Stefan\source\repos\Pero1\12.4.1\bin\Debug\12.4.1.exe
-C:\Users\Stefan\source\repos\Pero1\12.4.1\bin\Debug\12.4.1.pdb
-C:\Users\Stefan\source\repos\Pero1\12.4.1\obj\Debug\12.4.1.csproj.CoreCompileInputs.cache
-C:\Users\Stefan\source\repos\Pero1\12.4.1\obj\Debug\12.4.1.exe
-C:\Users\Stefan\source\repos\Pero1\12.4.1\obj\Debug\12.4.1.pdb

@@ -1,7 +1,0 @@
-C:\Users\Stefan\source\repos\Pero1\dasdasewdwasdwad\bin\Debug\dasdasewdwasdwad.exe.config
-C:\Users\Stefan\source\repos\Pero1\dasdasewdwasdwad\bin\Debug\dasdasewdwasdwad.exe
-C:\Users\Stefan\source\repos\Pero1\dasdasewdwasdwad\bin\Debug\dasdasewdwasdwad.pdb
-C:\Users\Stefan\source\repos\Pero1\dasdasewdwasdwad\obj\Debug\dasdasewdwasdwad.csprojAssemblyReference.cache
-C:\Users\Stefan\source\repos\Pero1\dasdasewdwasdwad\obj\Debug\dasdasewdwasdwad.csproj.CoreCompileInputs.cache
-C:\Users\Stefan\source\repos\Pero1\dasdasewdwasdwad\obj\Debug\dasdasewdwasdwad.exe
-C:\Users\Stefan\source\repos\Pero1\dasdasewdwasdwad\obj\Debug\dasdasewdwasdwad.pdb

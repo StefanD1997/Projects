@@ -1,6 +1,0 @@
-C:\Users\Stefan\source\repos\Pero1\6.1.2Ft2\bin\Debug\6.1.2Ft2.exe.config
-C:\Users\Stefan\source\repos\Pero1\6.1.2Ft2\bin\Debug\6.1.2Ft2.exe
-C:\Users\Stefan\source\repos\Pero1\6.1.2Ft2\bin\Debug\6.1.2Ft2.pdb
-C:\Users\Stefan\source\repos\Pero1\6.1.2Ft2\obj\Debug\6.1.2Ft2.csproj.CoreCompileInputs.cache
-C:\Users\Stefan\source\repos\Pero1\6.1.2Ft2\obj\Debug\6.1.2Ft2.exe
-C:\Users\Stefan\source\repos\Pero1\6.1.2Ft2\obj\Debug\6.1.2Ft2.pdb

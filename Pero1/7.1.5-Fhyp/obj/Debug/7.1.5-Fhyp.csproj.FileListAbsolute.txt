@@ -1,6 +1,0 @@
-C:\Users\Stefan\source\repos\Pero1\7.1.5-Fhyp\bin\Debug\7.1.5-Fhyp.exe.config
-C:\Users\Stefan\source\repos\Pero1\7.1.5-Fhyp\bin\Debug\7.1.5-Fhyp.exe
-C:\Users\Stefan\source\repos\Pero1\7.1.5-Fhyp\bin\Debug\7.1.5-Fhyp.pdb
-C:\Users\Stefan\source\repos\Pero1\7.1.5-Fhyp\obj\Debug\7.1.5-Fhyp.csproj.CoreCompileInputs.cache
-C:\Users\Stefan\source\repos\Pero1\7.1.5-Fhyp\obj\Debug\7.1.5-Fhyp.exe
-C:\Users\Stefan\source\repos\Pero1\7.1.5-Fhyp\obj\Debug\7.1.5-Fhyp.pdb

@@ -1,6 +1,0 @@
-C:\Users\Stefan\source\repos\Pero1\6.2.3-q\obj\Debug\6.2.3-q.csproj.CoreCompileInputs.cache
-C:\Users\Stefan\source\repos\Pero1\6.2.3-q\bin\Debug\6.2.3-q.exe.config
-C:\Users\Stefan\source\repos\Pero1\6.2.3-q\bin\Debug\6.2.3-q.exe
-C:\Users\Stefan\source\repos\Pero1\6.2.3-q\bin\Debug\6.2.3-q.pdb
-C:\Users\Stefan\source\repos\Pero1\6.2.3-q\obj\Debug\6.2.3-q.exe
-C:\Users\Stefan\source\repos\Pero1\6.2.3-q\obj\Debug\6.2.3-q.pdb
