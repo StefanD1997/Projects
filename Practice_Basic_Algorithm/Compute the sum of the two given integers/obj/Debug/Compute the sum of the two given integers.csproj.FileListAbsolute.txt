@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of the two given integers\bin\Debug\Compute the sum of the two given integers.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of the two given integers\bin\Debug\Compute the sum of the two given integers.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of the two given integers\bin\Debug\Compute the sum of the two given integers.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of the two given integers\obj\Debug\Compute the sum of the two given integers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of the two given integers\obj\Debug\Compute the sum of the two given integers.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of the two given integers\obj\Debug\Compute the sum of the two given integers.pdb

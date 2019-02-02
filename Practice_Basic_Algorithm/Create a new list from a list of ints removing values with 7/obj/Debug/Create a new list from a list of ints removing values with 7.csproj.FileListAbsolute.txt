@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new list from a list of ints removing values with 7\bin\Debug\Create a new list from a list of ints removing values with 7.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new list from a list of ints removing values with 7\bin\Debug\Create a new list from a list of ints removing values with 7.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new list from a list of ints removing values with 7\bin\Debug\Create a new list from a list of ints removing values with 7.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new list from a list of ints removing values with 7\obj\Debug\Create a new list from a list of ints removing values with 7.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new list from a list of ints removing values with 7\obj\Debug\Create a new list from a list of ints removing values with 7.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new list from a list of ints removing values with 7\obj\Debug\Create a new list from a list of ints removing values with 7.pdb

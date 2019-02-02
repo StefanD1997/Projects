@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a list from a list of integers removing ints smaller 4\bin\Debug\Create a list from a list of integers removing ints smaller 4.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a list from a list of integers removing ints smaller 4\bin\Debug\Create a list from a list of integers removing ints smaller 4.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a list from a list of integers removing ints smaller 4\bin\Debug\Create a list from a list of integers removing ints smaller 4.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a list from a list of integers removing ints smaller 4\obj\Debug\Create a list from a list of integers removing ints smaller 4.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a list from a list of integers removing ints smaller 4\obj\Debug\Create a list from a list of integers removing ints smaller 4.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a list from a list of integers removing ints smaller 4\obj\Debug\Create a list from a list of integers removing ints smaller 4.pdb

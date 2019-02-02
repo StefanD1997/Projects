@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check whether the first two chars and last two chars are same\bin\Debug\Check whether the first two chars and last two chars are same.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check whether the first two chars and last two chars are same\bin\Debug\Check whether the first two chars and last two chars are same.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check whether the first two chars and last two chars are same\bin\Debug\Check whether the first two chars and last two chars are same.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check whether the first two chars and last two chars are same\obj\Debug\Check whether the first two chars and last two chars are same.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check whether the first two chars and last two chars are same\obj\Debug\Check whether the first two chars and last two chars are same.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check whether the first two chars and last two chars are same\obj\Debug\Check whether the first two chars and last two chars are same.pdb

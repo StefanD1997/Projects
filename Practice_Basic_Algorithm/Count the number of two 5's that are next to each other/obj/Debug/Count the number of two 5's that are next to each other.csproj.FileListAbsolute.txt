@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count the number of two 5's that are next to each other\bin\Debug\Count the number of two 5's that are next to each other.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count the number of two 5's that are next to each other\bin\Debug\Count the number of two 5's that are next to each other.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count the number of two 5's that are next to each other\bin\Debug\Count the number of two 5's that are next to each other.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count the number of two 5's that are next to each other\obj\Debug\Count the number of two 5's that are next to each other.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count the number of two 5's that are next to each other\obj\Debug\Count the number of two 5's that are next to each other.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count the number of two 5's that are next to each other\obj\Debug\Count the number of two 5's that are next to each other.pdb

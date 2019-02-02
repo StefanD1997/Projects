@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Arrays\2\bin\Debug\2.exe.config
+C:\Users\Stefan\source\repos\Arrays\2\bin\Debug\2.exe
+C:\Users\Stefan\source\repos\Arrays\2\bin\Debug\2.pdb
+C:\Users\Stefan\source\repos\Arrays\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Arrays\2\obj\Debug\2.exe
+C:\Users\Stefan\source\repos\Arrays\2\obj\Debug\2.pdb

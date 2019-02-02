@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array length 3 from a given array\bin\Debug\Create a new array length 3 from a given array.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array length 3 from a given array\bin\Debug\Create a new array length 3 from a given array.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array length 3 from a given array\bin\Debug\Create a new array length 3 from a given array.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array length 3 from a given array\obj\Debug\Create a new array length 3 from a given array.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array length 3 from a given array\obj\Debug\Create a new array length 3 from a given array.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array length 3 from a given array\obj\Debug\Create a new array length 3 from a given array.pdb

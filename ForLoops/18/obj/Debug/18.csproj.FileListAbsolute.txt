@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\ForLoops\18\bin\Debug\18.exe.config
+C:\Users\Stefan\source\repos\ForLoops\18\bin\Debug\18.exe
+C:\Users\Stefan\source\repos\ForLoops\18\bin\Debug\18.pdb
+C:\Users\Stefan\source\repos\ForLoops\18\obj\Debug\18.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\ForLoops\18\obj\Debug\18.exe
+C:\Users\Stefan\source\repos\ForLoops\18\obj\Debug\18.pdb

@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Three given nums are in strict order\bin\Debug\Three given nums are in strict order.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Three given nums are in strict order\bin\Debug\Three given nums are in strict order.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Three given nums are in strict order\bin\Debug\Three given nums are in strict order.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Three given nums are in strict order\obj\Debug\Three given nums are in strict order.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Three given nums are in strict order\obj\Debug\Three given nums are in strict order.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Three given nums are in strict order\obj\Debug\Three given nums are in strict order.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Three given nums are in strict order\obj\Debug\Three given nums are in strict order.pdb

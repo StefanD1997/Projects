@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Pero1\V\bin\Debug\V.exe.config
+C:\Users\Stefan\source\repos\Pero1\V\bin\Debug\V.exe
+C:\Users\Stefan\source\repos\Pero1\V\bin\Debug\V.pdb
+C:\Users\Stefan\source\repos\Pero1\V\obj\Debug\V.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Pero1\V\obj\Debug\V.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Pero1\V\obj\Debug\V.exe
+C:\Users\Stefan\source\repos\Pero1\V\obj\Debug\V.pdb

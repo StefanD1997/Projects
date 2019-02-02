@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given array of integers and length 2\bin\Debug\Check if a given array of integers and length 2.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given array of integers and length 2\bin\Debug\Check if a given array of integers and length 2.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given array of integers and length 2\bin\Debug\Check if a given array of integers and length 2.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given array of integers and length 2\obj\Debug\Check if a given array of integers and length 2.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given array of integers and length 2\obj\Debug\Check if a given array of integers and length 2.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given array of integers and length 2\obj\Debug\Check if a given array of integers and length 2.pdb

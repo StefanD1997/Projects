@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\BiggestAndSecondBiggestNumbers\BiggestAndSecondBiggestNumbers\bin\Debug\BiggestAndSecondBiggestNumbers.exe.config
+C:\Users\Stefan\source\repos\BiggestAndSecondBiggestNumbers\BiggestAndSecondBiggestNumbers\bin\Debug\BiggestAndSecondBiggestNumbers.exe
+C:\Users\Stefan\source\repos\BiggestAndSecondBiggestNumbers\BiggestAndSecondBiggestNumbers\bin\Debug\BiggestAndSecondBiggestNumbers.pdb
+C:\Users\Stefan\source\repos\BiggestAndSecondBiggestNumbers\BiggestAndSecondBiggestNumbers\obj\Debug\BiggestAndSecondBiggestNumbers.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\BiggestAndSecondBiggestNumbers\BiggestAndSecondBiggestNumbers\obj\Debug\BiggestAndSecondBiggestNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\BiggestAndSecondBiggestNumbers\BiggestAndSecondBiggestNumbers\obj\Debug\BiggestAndSecondBiggestNumbers.exe
+C:\Users\Stefan\source\repos\BiggestAndSecondBiggestNumbers\BiggestAndSecondBiggestNumbers\obj\Debug\BiggestAndSecondBiggestNumbers.pdb

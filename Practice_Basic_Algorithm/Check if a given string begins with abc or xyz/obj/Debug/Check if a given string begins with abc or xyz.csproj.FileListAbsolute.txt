@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string begins with abc or xyz\bin\Debug\Check if a given string begins with abc or xyz.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string begins with abc or xyz\bin\Debug\Check if a given string begins with abc or xyz.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string begins with abc or xyz\bin\Debug\Check if a given string begins with abc or xyz.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string begins with abc or xyz\obj\Debug\Check if a given string begins with abc or xyz.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string begins with abc or xyz\obj\Debug\Check if a given string begins with abc or xyz.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string begins with abc or xyz\obj\Debug\Check if a given string begins with abc or xyz.pdb

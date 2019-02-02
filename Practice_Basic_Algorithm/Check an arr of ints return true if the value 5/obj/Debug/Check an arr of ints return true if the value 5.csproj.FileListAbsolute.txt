@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an arr of ints return true if the value 5\bin\Debug\Check an arr of ints return true if the value 5.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an arr of ints return true if the value 5\bin\Debug\Check an arr of ints return true if the value 5.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an arr of ints return true if the value 5\bin\Debug\Check an arr of ints return true if the value 5.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an arr of ints return true if the value 5\obj\Debug\Check an arr of ints return true if the value 5.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an arr of ints return true if the value 5\obj\Debug\Check an arr of ints return true if the value 5.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an arr of ints return true if the value 5\obj\Debug\Check an arr of ints return true if the value 5.pdb

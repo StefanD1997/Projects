@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count the num of strs with length in given array of strings\bin\Debug\Count the num of strs with length in given array of strings.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count the num of strs with length in given array of strings\bin\Debug\Count the num of strs with length in given array of strings.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count the num of strs with length in given array of strings\bin\Debug\Count the num of strs with length in given array of strings.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count the num of strs with length in given array of strings\obj\Debug\Count the num of strs with length in given array of strings.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count the num of strs with length in given array of strings\obj\Debug\Count the num of strs with length in given array of strings.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count the num of strs with length in given array of strings\obj\Debug\Count the num of strs with length in given array of strings.pdb

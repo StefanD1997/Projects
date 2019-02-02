@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Find the larger from two given integers\bin\Debug\Find the larger from two given integers.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Find the larger from two given integers\bin\Debug\Find the larger from two given integers.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Find the larger from two given integers\bin\Debug\Find the larger from two given integers.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Find the larger from two given integers\obj\Debug\Find the larger from two given integers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Find the larger from two given integers\obj\Debug\Find the larger from two given integers.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Find the larger from two given integers\obj\Debug\Find the larger from two given integers.pdb

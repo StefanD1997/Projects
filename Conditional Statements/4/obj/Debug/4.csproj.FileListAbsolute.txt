@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Conditional Statements\4\bin\Debug\4.exe.config
+C:\Users\Stefan\source\repos\Conditional Statements\4\bin\Debug\4.exe
+C:\Users\Stefan\source\repos\Conditional Statements\4\bin\Debug\4.pdb
+C:\Users\Stefan\source\repos\Conditional Statements\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Conditional Statements\4\obj\Debug\4.exe
+C:\Users\Stefan\source\repos\Conditional Statements\4\obj\Debug\4.pdb

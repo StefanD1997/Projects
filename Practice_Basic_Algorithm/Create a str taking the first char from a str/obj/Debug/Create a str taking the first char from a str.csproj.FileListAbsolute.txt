@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a str taking the first char from a str\bin\Debug\Create a str taking the first char from a str.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a str taking the first char from a str\bin\Debug\Create a str taking the first char from a str.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a str taking the first char from a str\bin\Debug\Create a str taking the first char from a str.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a str taking the first char from a str\obj\Debug\Create a str taking the first char from a str.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a str taking the first char from a str\obj\Debug\Create a str taking the first char from a str.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a str taking the first char from a str\obj\Debug\Create a str taking the first char from a str.pdb

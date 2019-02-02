@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string without the first and last character\bin\Debug\Create a new string without the first and last character.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string without the first and last character\bin\Debug\Create a new string without the first and last character.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string without the first and last character\bin\Debug\Create a new string without the first and last character.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string without the first and last character\obj\Debug\Create a new string without the first and last character.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string without the first and last character\obj\Debug\Create a new string without the first and last character.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string without the first and last character\obj\Debug\Create a new string without the first and last character.pdb

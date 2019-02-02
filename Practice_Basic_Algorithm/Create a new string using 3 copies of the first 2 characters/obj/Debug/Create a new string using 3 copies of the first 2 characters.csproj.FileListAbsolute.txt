@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using 3 copies of the first 2 characters\bin\Debug\Create a new string using 3 copies of the first 2 characters.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using 3 copies of the first 2 characters\bin\Debug\Create a new string using 3 copies of the first 2 characters.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using 3 copies of the first 2 characters\bin\Debug\Create a new string using 3 copies of the first 2 characters.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using 3 copies of the first 2 characters\obj\Debug\Create a new string using 3 copies of the first 2 characters.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using 3 copies of the first 2 characters\obj\Debug\Create a new string using 3 copies of the first 2 characters.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using 3 copies of the first 2 characters\obj\Debug\Create a new string using 3 copies of the first 2 characters.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using 3 copies of the first 2 characters\obj\Debug\Create a new string using 3 copies of the first 2 characters.pdb

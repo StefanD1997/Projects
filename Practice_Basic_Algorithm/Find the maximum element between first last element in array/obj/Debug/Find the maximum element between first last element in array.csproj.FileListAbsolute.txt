@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Find the maximum element between first last element in array\bin\Debug\Find the maximum element between first last element in array.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Find the maximum element between first last element in array\bin\Debug\Find the maximum element between first last element in array.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Find the maximum element between first last element in array\bin\Debug\Find the maximum element between first last element in array.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Find the maximum element between first last element in array\obj\Debug\Find the maximum element between first last element in array.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Find the maximum element between first last element in array\obj\Debug\Find the maximum element between first last element in array.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Find the maximum element between first last element in array\obj\Debug\Find the maximum element between first last element in array.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Find the maximum element between first last element in array\obj\Debug\Find the maximum element between first last element in array.pdb

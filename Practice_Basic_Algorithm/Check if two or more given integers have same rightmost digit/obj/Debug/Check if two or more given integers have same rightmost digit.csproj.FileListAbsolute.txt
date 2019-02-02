@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if two or more given integers have same rightmost digit\bin\Debug\Check if two or more given integers have same rightmost digit.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if two or more given integers have same rightmost digit\bin\Debug\Check if two or more given integers have same rightmost digit.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if two or more given integers have same rightmost digit\bin\Debug\Check if two or more given integers have same rightmost digit.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if two or more given integers have same rightmost digit\obj\Debug\Check if two or more given integers have same rightmost digit.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if two or more given integers have same rightmost digit\obj\Debug\Check if two or more given integers have same rightmost digit.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if two or more given integers have same rightmost digit\obj\Debug\Check if two or more given integers have same rightmost digit.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if two or more given integers have same rightmost digit\obj\Debug\Check if two or more given integers have same rightmost digit.pdb

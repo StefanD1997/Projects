@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using three copies of the last character\bin\Debug\Create a new string using three copies of the last character.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using three copies of the last character\bin\Debug\Create a new string using three copies of the last character.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using three copies of the last character\bin\Debug\Create a new string using three copies of the last character.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using three copies of the last character\obj\Debug\Create a new string using three copies of the last character.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using three copies of the last character\obj\Debug\Create a new string using three copies of the last character.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using three copies of the last character\obj\Debug\Create a new string using three copies of the last character.pdb

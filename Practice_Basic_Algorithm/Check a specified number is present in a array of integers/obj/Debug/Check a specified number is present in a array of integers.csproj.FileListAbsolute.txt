@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a specified number is present in a array of integers\bin\Debug\Check a specified number is present in a array of integers.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a specified number is present in a array of integers\bin\Debug\Check a specified number is present in a array of integers.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a specified number is present in a array of integers\bin\Debug\Check a specified number is present in a array of integers.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a specified number is present in a array of integers\obj\Debug\Check a specified number is present in a array of integers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a specified number is present in a array of integers\obj\Debug\Check a specified number is present in a array of integers.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a specified number is present in a array of integers\obj\Debug\Check a specified number is present in a array of integers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using first two characters of a string\bin\Debug\Create a new string using first two characters of a string.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using first two characters of a string\bin\Debug\Create a new string using first two characters of a string.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using first two characters of a string\bin\Debug\Create a new string using first two characters of a string.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using first two characters of a string\obj\Debug\Create a new string using first two characters of a string.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using first two characters of a string\obj\Debug\Create a new string using first two characters of a string.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using first two characters of a string\obj\Debug\Create a new string using first two characters of a string.pdb

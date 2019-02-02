@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check three given integers and return true if one is 20\bin\Debug\Check three given integers and return true if one is 20.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check three given integers and return true if one is 20\bin\Debug\Check three given integers and return true if one is 20.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check three given integers and return true if one is 20\bin\Debug\Check three given integers and return true if one is 20.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check three given integers and return true if one is 20\obj\Debug\Check three given integers and return true if one is 20.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check three given integers and return true if one is 20\obj\Debug\Check three given integers and return true if one is 20.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check three given integers and return true if one is 20\obj\Debug\Check three given integers and return true if one is 20.pdb

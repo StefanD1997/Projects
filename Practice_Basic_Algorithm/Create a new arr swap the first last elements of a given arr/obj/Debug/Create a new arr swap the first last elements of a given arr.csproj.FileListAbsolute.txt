@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new arr swap the first last elements of a given arr\bin\Debug\Create a new arr swap the first last elements of a given arr.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new arr swap the first last elements of a given arr\bin\Debug\Create a new arr swap the first last elements of a given arr.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new arr swap the first last elements of a given arr\bin\Debug\Create a new arr swap the first last elements of a given arr.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new arr swap the first last elements of a given arr\obj\Debug\Create a new arr swap the first last elements of a given arr.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new arr swap the first last elements of a given arr\obj\Debug\Create a new arr swap the first last elements of a given arr.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new arr swap the first last elements of a given arr\obj\Debug\Create a new arr swap the first last elements of a given arr.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new arr swap the first last elements of a given arr\obj\Debug\Create a new arr swap the first last elements of a given arr.pdb

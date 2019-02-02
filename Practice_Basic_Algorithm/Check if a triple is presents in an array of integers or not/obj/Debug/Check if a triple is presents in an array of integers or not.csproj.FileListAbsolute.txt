@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a triple is presents in an array of integers or not\bin\Debug\Check if a triple is presents in an array of integers or not.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a triple is presents in an array of integers or not\bin\Debug\Check if a triple is presents in an array of integers or not.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a triple is presents in an array of integers or not\bin\Debug\Check if a triple is presents in an array of integers or not.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a triple is presents in an array of integers or not\obj\Debug\Check if a triple is presents in an array of integers or not.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a triple is presents in an array of integers or not\obj\Debug\Check if a triple is presents in an array of integers or not.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a triple is presents in an array of integers or not\obj\Debug\Check if a triple is presents in an array of integers or not.pdb

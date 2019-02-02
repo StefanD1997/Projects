@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Pero1\6.1Ft\bin\Debug\6.1Ft.exe.config
+C:\Users\Stefan\source\repos\Pero1\6.1Ft\bin\Debug\6.1Ft.exe
+C:\Users\Stefan\source\repos\Pero1\6.1Ft\bin\Debug\6.1Ft.pdb
+C:\Users\Stefan\source\repos\Pero1\6.1Ft\obj\Debug\6.1Ft.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Pero1\6.1Ft\obj\Debug\6.1Ft.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Pero1\6.1Ft\obj\Debug\6.1Ft.exe
+C:\Users\Stefan\source\repos\Pero1\6.1Ft\obj\Debug\6.1Ft.pdb

@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if an array of integers contains a 3 next to a 3\bin\Debug\Check if an array of integers contains a 3 next to a 3.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if an array of integers contains a 3 next to a 3\bin\Debug\Check if an array of integers contains a 3 next to a 3.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if an array of integers contains a 3 next to a 3\bin\Debug\Check if an array of integers contains a 3 next to a 3.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if an array of integers contains a 3 next to a 3\obj\Debug\Check if an array of integers contains a 3 next to a 3.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if an array of integers contains a 3 next to a 3\obj\Debug\Check if an array of integers contains a 3 next to a 3.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if an array of integers contains a 3 next to a 3\obj\Debug\Check if an array of integers contains a 3 next to a 3.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if an array of integers contains a 3 next to a 3\obj\Debug\Check if an array of integers contains a 3 next to a 3.pdb

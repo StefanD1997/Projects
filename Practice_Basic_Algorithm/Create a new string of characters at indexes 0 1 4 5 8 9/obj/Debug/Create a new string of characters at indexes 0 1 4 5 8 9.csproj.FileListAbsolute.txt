@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string of characters at indexes 0 1 4 5 8 9\bin\Debug\Create a new string of characters at indexes 0 1 4 5 8 9.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string of characters at indexes 0 1 4 5 8 9\bin\Debug\Create a new string of characters at indexes 0 1 4 5 8 9.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string of characters at indexes 0 1 4 5 8 9\bin\Debug\Create a new string of characters at indexes 0 1 4 5 8 9.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string of characters at indexes 0 1 4 5 8 9\obj\Debug\Create a new string of characters at indexes 0 1 4 5 8 9.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string of characters at indexes 0 1 4 5 8 9\obj\Debug\Create a new string of characters at indexes 0 1 4 5 8 9.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string of characters at indexes 0 1 4 5 8 9\obj\Debug\Create a new string of characters at indexes 0 1 4 5 8 9.pdb

@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Basic Exercises\Swap two numbers\bin\Debug\Swap two numbers.exe.config
+C:\Users\Stefan\source\repos\Basic Exercises\Swap two numbers\bin\Debug\Swap two numbers.exe
+C:\Users\Stefan\source\repos\Basic Exercises\Swap two numbers\bin\Debug\Swap two numbers.pdb
+C:\Users\Stefan\source\repos\Basic Exercises\Swap two numbers\obj\Debug\5.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Basic Exercises\Swap two numbers\obj\Debug\5.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Basic Exercises\Swap two numbers\obj\Debug\Swap two numbers.exe
+C:\Users\Stefan\source\repos\Basic Exercises\Swap two numbers\obj\Debug\Swap two numbers.pdb

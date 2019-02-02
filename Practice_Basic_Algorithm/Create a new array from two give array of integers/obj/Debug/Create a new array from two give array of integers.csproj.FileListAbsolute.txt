@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array from two give array of integers\bin\Debug\Create a new array from two give array of integers.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array from two give array of integers\bin\Debug\Create a new array from two give array of integers.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array from two give array of integers\bin\Debug\Create a new array from two give array of integers.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array from two give array of integers\obj\Debug\Create a new array from two give array of integers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array from two give array of integers\obj\Debug\Create a new array from two give array of integers.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array from two give array of integers\obj\Debug\Create a new array from two give array of integers.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array from two give array of integers\obj\Debug\Create a new array from two give array of integers.csprojAssemblyReference.cache

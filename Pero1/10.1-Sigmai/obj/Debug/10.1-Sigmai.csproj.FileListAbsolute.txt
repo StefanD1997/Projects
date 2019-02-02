@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Pero1\10.1-Sigmai\bin\Debug\10.1-Sigmai.exe.config
+C:\Users\Stefan\source\repos\Pero1\10.1-Sigmai\bin\Debug\10.1-Sigmai.exe
+C:\Users\Stefan\source\repos\Pero1\10.1-Sigmai\bin\Debug\10.1-Sigmai.pdb
+C:\Users\Stefan\source\repos\Pero1\10.1-Sigmai\obj\Debug\10.1-Sigmai.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Pero1\10.1-Sigmai\obj\Debug\10.1-Sigmai.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Pero1\10.1-Sigmai\obj\Debug\10.1-Sigmai.exe
+C:\Users\Stefan\source\repos\Pero1\10.1-Sigmai\obj\Debug\10.1-Sigmai.pdb

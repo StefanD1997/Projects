@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Basic Exercises\48\bin\Debug\48.exe.config
+C:\Users\Stefan\source\repos\Basic Exercises\48\bin\Debug\48.exe
+C:\Users\Stefan\source\repos\Basic Exercises\48\bin\Debug\48.pdb
+C:\Users\Stefan\source\repos\Basic Exercises\48\obj\Debug\48.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Basic Exercises\48\obj\Debug\48.exe
+C:\Users\Stefan\source\repos\Basic Exercises\48\obj\Debug\48.pdb

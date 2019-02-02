@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string starts with CSharp or not\bin\Debug\Check if a given string starts with CSharp or not.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string starts with CSharp or not\bin\Debug\Check if a given string starts with CSharp or not.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string starts with CSharp or not\bin\Debug\Check if a given string starts with CSharp or not.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string starts with CSharp or not\obj\Debug\Check if a given string starts with CSharp or not.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string starts with CSharp or not\obj\Debug\Check if a given string starts with CSharp or not.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string starts with CSharp or not\obj\Debug\Check if a given string starts with CSharp or not.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check whether the sequence of numbers 1, 2, 3 appear in arr\obj\Debug\Check whether the sequence of numbers 1, 2, 3 appear in arr.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check whether the sequence of numbers 1, 2, 3 appear in arr\bin\Debug\Check whether the sequence of numbers 1, 2, 3 appear in arr.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check whether the sequence of numbers 1, 2, 3 appear in arr\bin\Debug\Check whether the sequence of numbers 1, 2, 3 appear in arr.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check whether the sequence of numbers 1, 2, 3 appear in arr\bin\Debug\Check whether the sequence of numbers 1, 2, 3 appear in arr.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check whether the sequence of numbers 1, 2, 3 appear in arr\obj\Debug\Check whether the sequence of numbers 1, 2, 3 appear in arr.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check whether the sequence of numbers 1, 2, 3 appear in arr\obj\Debug\Check whether the sequence of numbers 1, 2, 3 appear in arr.pdb

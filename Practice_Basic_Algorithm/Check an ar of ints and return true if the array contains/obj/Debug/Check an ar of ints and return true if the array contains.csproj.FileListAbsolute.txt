@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an ar of ints and return true if the array contains\bin\Debug\Check an ar of ints and return true if the array contains.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an ar of ints and return true if the array contains\bin\Debug\Check an ar of ints and return true if the array contains.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an ar of ints and return true if the array contains\bin\Debug\Check an ar of ints and return true if the array contains.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an ar of ints and return true if the array contains\obj\Debug\Check an ar of ints and return true if the array contains.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an ar of ints and return true if the array contains\obj\Debug\Check an ar of ints and return true if the array contains.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an ar of ints and return true if the array contains\obj\Debug\Check an ar of ints and return true if the array contains.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using the two middle characters\bin\Debug\Create a new string using the two middle characters.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using the two middle characters\bin\Debug\Create a new string using the two middle characters.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using the two middle characters\bin\Debug\Create a new string using the two middle characters.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using the two middle characters\obj\Debug\Create a new string using the two middle characters.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using the two middle characters\obj\Debug\Create a new string using the two middle characters.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using the two middle characters\obj\Debug\Create a new string using the two middle characters.pdb

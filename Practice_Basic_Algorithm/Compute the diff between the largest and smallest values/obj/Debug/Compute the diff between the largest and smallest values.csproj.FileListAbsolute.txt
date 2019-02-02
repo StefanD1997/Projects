@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the diff between the largest and smallest values\bin\Debug\Compute the diff between the largest and smallest values.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the diff between the largest and smallest values\bin\Debug\Compute the diff between the largest and smallest values.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the diff between the largest and smallest values\bin\Debug\Compute the diff between the largest and smallest values.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the diff between the largest and smallest values\obj\Debug\Compute the diff between the largest and smallest values.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the diff between the largest and smallest values\obj\Debug\Compute the diff between the largest and smallest values.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the diff between the largest and smallest values\obj\Debug\Compute the diff between the largest and smallest values.pdb

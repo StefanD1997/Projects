@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Exchage first and last char in string\bin\Debug\Exchage first and last char in string.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Exchage first and last char in string\bin\Debug\Exchage first and last char in string.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Exchage first and last char in string\bin\Debug\Exchage first and last char in string.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Exchage first and last char in string\obj\Debug\Exchage first and last char in string.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Exchage first and last char in string\obj\Debug\Exchage first and last char in string.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Exchage first and last char in string\obj\Debug\Exchage first and last char in string.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Insert a given string into middle of the another given string\bin\Debug\Insert a given string into middle of the another given string.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Insert a given string into middle of the another given string\bin\Debug\Insert a given string into middle of the another given string.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Insert a given string into middle of the another given string\bin\Debug\Insert a given string into middle of the another given string.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Insert a given string into middle of the another given string\obj\Debug\Insert a given string into middle of the another given string.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Insert a given string into middle of the another given string\obj\Debug\Insert a given string into middle of the another given string.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Insert a given string into middle of the another given string\obj\Debug\Insert a given string into middle of the another given string.pdb

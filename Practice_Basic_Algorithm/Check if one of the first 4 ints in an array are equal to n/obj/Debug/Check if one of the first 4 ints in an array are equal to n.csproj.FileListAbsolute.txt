@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if one of the first 4 ints in an array are equal to n\bin\Debug\Check if one of the first 4 ints in an array are equal to n.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if one of the first 4 ints in an array are equal to n\bin\Debug\Check if one of the first 4 ints in an array are equal to n.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if one of the first 4 ints in an array are equal to n\bin\Debug\Check if one of the first 4 ints in an array are equal to n.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if one of the first 4 ints in an array are equal to n\obj\Debug\Check if one of the first 4 ints in an array are equal to n.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if one of the first 4 ints in an array are equal to n\obj\Debug\Check if one of the first 4 ints in an array are equal to n.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if one of the first 4 ints in an array are equal to n\obj\Debug\Check if one of the first 4 ints in an array are equal to n.pdb

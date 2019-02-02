@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Pero1\7.1.3-Vi\bin\Debug\7.1.3-Vi.exe.config
+C:\Users\Stefan\source\repos\Pero1\7.1.3-Vi\bin\Debug\7.1.3-Vi.exe
+C:\Users\Stefan\source\repos\Pero1\7.1.3-Vi\bin\Debug\7.1.3-Vi.pdb
+C:\Users\Stefan\source\repos\Pero1\7.1.3-Vi\obj\Debug\7.1.3-Vi.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Pero1\7.1.3-Vi\obj\Debug\7.1.3-Vi.exe
+C:\Users\Stefan\source\repos\Pero1\7.1.3-Vi\obj\Debug\7.1.3-Vi.pdb

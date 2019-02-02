@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create an array taking two middle elements from a given array\bin\Debug\Create an array taking two middle elements from a given array.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create an array taking two middle elements from a given array\bin\Debug\Create an array taking two middle elements from a given array.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create an array taking two middle elements from a given array\bin\Debug\Create an array taking two middle elements from a given array.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create an array taking two middle elements from a given array\obj\Debug\Create an array taking two middle elements from a given array.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create an array taking two middle elements from a given array\obj\Debug\Create an array taking two middle elements from a given array.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create an array taking two middle elements from a given array\obj\Debug\Create an array taking two middle elements from a given array.pdb

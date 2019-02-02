@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Pero1\9.1.4-Pr\bin\Debug\9.1.4-Pr.exe.config
+C:\Users\Stefan\source\repos\Pero1\9.1.4-Pr\bin\Debug\9.1.4-Pr.exe
+C:\Users\Stefan\source\repos\Pero1\9.1.4-Pr\bin\Debug\9.1.4-Pr.pdb
+C:\Users\Stefan\source\repos\Pero1\9.1.4-Pr\obj\Debug\9.1.4-Pr.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Pero1\9.1.4-Pr\obj\Debug\9.1.4-Pr.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Pero1\9.1.4-Pr\obj\Debug\9.1.4-Pr.exe
+C:\Users\Stefan\source\repos\Pero1\9.1.4-Pr\obj\Debug\9.1.4-Pr.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compare two given strings\bin\Debug\Compare two given strings.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compare two given strings\bin\Debug\Compare two given strings.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compare two given strings\bin\Debug\Compare two given strings.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compare two given strings\obj\Debug\Compare two given strings.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compare two given strings\obj\Debug\Compare two given strings.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compare two given strings\obj\Debug\Compare two given strings.pdb

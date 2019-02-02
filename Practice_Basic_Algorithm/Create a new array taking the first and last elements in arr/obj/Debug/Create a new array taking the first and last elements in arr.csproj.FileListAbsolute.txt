@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array taking the first and last elements in arr\bin\Debug\Create a new array taking the first and last elements in arr.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array taking the first and last elements in arr\bin\Debug\Create a new array taking the first and last elements in arr.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array taking the first and last elements in arr\bin\Debug\Create a new array taking the first and last elements in arr.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array taking the first and last elements in arr\obj\Debug\Create a new array taking the first and last elements in arr.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array taking the first and last elements in arr\obj\Debug\Create a new array taking the first and last elements in arr.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array taking the first and last elements in arr\obj\Debug\Create a new array taking the first and last elements in arr.pdb

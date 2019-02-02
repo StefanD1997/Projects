@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a given array of integers and return true\bin\Debug\Check a given array of integers and return true.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a given array of integers and return true\bin\Debug\Check a given array of integers and return true.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a given array of integers and return true\bin\Debug\Check a given array of integers and return true.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a given array of integers and return true\obj\Debug\Check a given array of integers and return true.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a given array of integers and return true\obj\Debug\Check a given array of integers and return true.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a given array of integers and return true\obj\Debug\Check a given array of integers and return true.pdb

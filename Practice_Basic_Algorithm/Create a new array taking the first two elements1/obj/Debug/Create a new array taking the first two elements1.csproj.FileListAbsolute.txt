@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array taking the first two elements1\bin\Debug\Create a new array taking the first two elements1.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array taking the first two elements1\bin\Debug\Create a new array taking the first two elements1.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array taking the first two elements1\bin\Debug\Create a new array taking the first two elements1.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array taking the first two elements1\obj\Debug\Create a new array taking the first two elements1.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array taking the first two elements1\obj\Debug\Create a new array taking the first two elements1.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array taking the first two elements1\obj\Debug\Create a new array taking the first two elements1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new str from a str after replace last two characters\bin\Debug\Create a new str from a str after replace last two characters.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new str from a str after replace last two characters\bin\Debug\Create a new str from a str after replace last two characters.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new str from a str after replace last two characters\bin\Debug\Create a new str from a str after replace last two characters.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new str from a str after replace last two characters\obj\Debug\Create a new str from a str after replace last two characters.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new str from a str after replace last two characters\obj\Debug\Create a new str from a str after replace last two characters.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new str from a str after replace last two characters\obj\Debug\Create a new str from a str after replace last two characters.pdb

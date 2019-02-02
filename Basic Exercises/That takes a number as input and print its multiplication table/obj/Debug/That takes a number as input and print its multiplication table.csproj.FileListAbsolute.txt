@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Basic Exercises\That takes a number as input and print its multiplication table\bin\Debug\That takes a number as input and print its multiplication table.exe.config
+C:\Users\Stefan\source\repos\Basic Exercises\That takes a number as input and print its multiplication table\bin\Debug\That takes a number as input and print its multiplication table.exe
+C:\Users\Stefan\source\repos\Basic Exercises\That takes a number as input and print its multiplication table\bin\Debug\That takes a number as input and print its multiplication table.pdb
+C:\Users\Stefan\source\repos\Basic Exercises\That takes a number as input and print its multiplication table\obj\Debug\That takes a number as input and print its multiplication table.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Basic Exercises\That takes a number as input and print its multiplication table\obj\Debug\That takes a number as input and print its multiplication table.exe
+C:\Users\Stefan\source\repos\Basic Exercises\That takes a number as input and print its multiplication table\obj\Debug\That takes a number as input and print its multiplication table.pdb

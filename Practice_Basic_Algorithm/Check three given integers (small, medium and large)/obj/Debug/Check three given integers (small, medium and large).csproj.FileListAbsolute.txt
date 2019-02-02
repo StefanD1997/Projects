@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check three given integers (small, medium and large)\bin\Debug\Check three given integers (small, medium and large).exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check three given integers (small, medium and large)\bin\Debug\Check three given integers (small, medium and large).exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check three given integers (small, medium and large)\bin\Debug\Check three given integers (small, medium and large).pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check three given integers (small, medium and large)\obj\Debug\Check three given integers (small, medium and large).csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check three given integers (small, medium and large)\obj\Debug\Check three given integers (small, medium and large).exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check three given integers (small, medium and large)\obj\Debug\Check three given integers (small, medium and large).pdb

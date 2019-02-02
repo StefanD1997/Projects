@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string made of every other character\bin\Debug\Create a new string made of every other character.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string made of every other character\bin\Debug\Create a new string made of every other character.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string made of every other character\bin\Debug\Create a new string made of every other character.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string made of every other character\obj\Debug\Create a new string made of every other character.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string made of every other character\obj\Debug\Create a new string made of every other character.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string made of every other character\obj\Debug\Create a new string made of every other character.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\ForLoops\245\bin\Debug\245.exe.config
+C:\Users\Stefan\source\repos\ForLoops\245\bin\Debug\245.exe
+C:\Users\Stefan\source\repos\ForLoops\245\bin\Debug\245.pdb
+C:\Users\Stefan\source\repos\ForLoops\245\obj\Debug\24.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\ForLoops\245\obj\Debug\245.exe
+C:\Users\Stefan\source\repos\ForLoops\245\obj\Debug\245.pdb

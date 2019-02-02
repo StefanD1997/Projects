@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Basic Exercises\42\bin\Debug\42.exe.config
+C:\Users\Stefan\source\repos\Basic Exercises\42\bin\Debug\42.exe
+C:\Users\Stefan\source\repos\Basic Exercises\42\bin\Debug\42.pdb
+C:\Users\Stefan\source\repos\Basic Exercises\42\obj\Debug\42.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Basic Exercises\42\obj\Debug\42.exe
+C:\Users\Stefan\source\repos\Basic Exercises\42\obj\Debug\42.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Basic Exercises\Print Hello and your name in a separate line\bin\Debug\Print Hello and your name in a separate line.exe.config
+C:\Users\Stefan\source\repos\Basic Exercises\Print Hello and your name in a separate line\bin\Debug\Print Hello and your name in a separate line.exe
+C:\Users\Stefan\source\repos\Basic Exercises\Print Hello and your name in a separate line\bin\Debug\Print Hello and your name in a separate line.pdb
+C:\Users\Stefan\source\repos\Basic Exercises\Print Hello and your name in a separate line\obj\Debug\Print Hello and your name in a separate line.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Basic Exercises\Print Hello and your name in a separate line\obj\Debug\Print Hello and your name in a separate line.exe
+C:\Users\Stefan\source\repos\Basic Exercises\Print Hello and your name in a separate line\obj\Debug\Print Hello and your name in a separate line.pdb

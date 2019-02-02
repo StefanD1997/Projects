@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\New string with the last char added at the front and back\bin\Debug\New string with the last char added at the front and back.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\New string with the last char added at the front and back\bin\Debug\New string with the last char added at the front and back.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\New string with the last char added at the front and back\bin\Debug\New string with the last char added at the front and back.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\New string with the last char added at the front and back\obj\Debug\New string with the last char added at the front and back.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\New string with the last char added at the front and back\obj\Debug\New string with the last char added at the front and back.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\New string with the last char added at the front and back\obj\Debug\New string with the last char added at the front and back.pdb

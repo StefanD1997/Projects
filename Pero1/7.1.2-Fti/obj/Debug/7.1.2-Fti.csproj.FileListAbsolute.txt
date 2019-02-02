@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Pero1\7.1.2-Fti\obj\Debug\7.1.2-Fti.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Pero1\7.1.2-Fti\obj\Debug\7.1.2-Fti.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Pero1\7.1.2-Fti\bin\Debug\7.1.2-Fti.exe.config
+C:\Users\Stefan\source\repos\Pero1\7.1.2-Fti\bin\Debug\7.1.2-Fti.exe
+C:\Users\Stefan\source\repos\Pero1\7.1.2-Fti\bin\Debug\7.1.2-Fti.pdb
+C:\Users\Stefan\source\repos\Pero1\7.1.2-Fti\obj\Debug\7.1.2-Fti.exe
+C:\Users\Stefan\source\repos\Pero1\7.1.2-Fti\obj\Debug\7.1.2-Fti.pdb

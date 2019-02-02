@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given array of integers contains no 3 or a 5\bin\Debug\Check if a given array of integers contains no 3 or a 5.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given array of integers contains no 3 or a 5\bin\Debug\Check if a given array of integers contains no 3 or a 5.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given array of integers contains no 3 or a 5\bin\Debug\Check if a given array of integers contains no 3 or a 5.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given array of integers contains no 3 or a 5\obj\Debug\Check if a given array of integers contains no 3 or a 5.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given array of integers contains no 3 or a 5\obj\Debug\Check if a given array of integers contains no 3 or a 5.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given array of integers contains no 3 or a 5\obj\Debug\Check if a given array of integers contains no 3 or a 5.pdb

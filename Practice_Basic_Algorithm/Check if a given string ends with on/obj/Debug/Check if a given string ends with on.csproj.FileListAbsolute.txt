@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string ends with on\bin\Debug\Check if a given string ends with on.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string ends with on\bin\Debug\Check if a given string ends with on.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string ends with on\bin\Debug\Check if a given string ends with on.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string ends with on\obj\Debug\Check if a given string ends with on.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string ends with on\obj\Debug\Check if a given string ends with on.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string ends with on\obj\Debug\Check if a given string ends with on.pdb

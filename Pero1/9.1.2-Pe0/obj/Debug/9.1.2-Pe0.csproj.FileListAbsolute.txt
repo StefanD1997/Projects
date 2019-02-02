@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Pero1\9.1.2-Pe0\bin\Debug\9.1.2-Pe0.exe.config
+C:\Users\Stefan\source\repos\Pero1\9.1.2-Pe0\bin\Debug\9.1.2-Pe0.exe
+C:\Users\Stefan\source\repos\Pero1\9.1.2-Pe0\bin\Debug\9.1.2-Pe0.pdb
+C:\Users\Stefan\source\repos\Pero1\9.1.2-Pe0\obj\Debug\9.1.2-Pe0.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Pero1\9.1.2-Pe0\obj\Debug\9.1.2-Pe0.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Pero1\9.1.2-Pe0\obj\Debug\9.1.2-Pe0.exe
+C:\Users\Stefan\source\repos\Pero1\9.1.2-Pe0\obj\Debug\9.1.2-Pe0.pdb

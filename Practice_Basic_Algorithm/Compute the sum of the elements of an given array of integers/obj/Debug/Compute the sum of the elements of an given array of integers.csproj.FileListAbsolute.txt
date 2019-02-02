@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of the elements of an given array of integers\bin\Debug\Compute the sum of the elements of an given array of integers.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of the elements of an given array of integers\bin\Debug\Compute the sum of the elements of an given array of integers.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of the elements of an given array of integers\bin\Debug\Compute the sum of the elements of an given array of integers.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of the elements of an given array of integers\obj\Debug\Compute the sum of the elements of an given array of integers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of the elements of an given array of integers\obj\Debug\Compute the sum of the elements of an given array of integers.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of the elements of an given array of integers\obj\Debug\Compute the sum of the elements of an given array of integers.pdb

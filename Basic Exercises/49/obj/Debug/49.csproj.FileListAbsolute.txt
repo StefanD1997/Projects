@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Basic Exercises\49\bin\Debug\49.exe.config
+C:\Users\Stefan\source\repos\Basic Exercises\49\bin\Debug\49.exe
+C:\Users\Stefan\source\repos\Basic Exercises\49\bin\Debug\49.pdb
+C:\Users\Stefan\source\repos\Basic Exercises\49\obj\Debug\49.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Basic Exercises\49\obj\Debug\49.exe
+C:\Users\Stefan\source\repos\Basic Exercises\49\obj\Debug\49.pdb

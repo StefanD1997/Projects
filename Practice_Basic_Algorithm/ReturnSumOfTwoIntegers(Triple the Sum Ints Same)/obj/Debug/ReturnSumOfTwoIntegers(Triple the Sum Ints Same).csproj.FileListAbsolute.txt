@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\ReturnSumOfTwoIntegers(Triple the Sum Ints Same)\bin\Debug\ReturnSumOfTwoIntegers(Triple the Sum Ints Same).exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\ReturnSumOfTwoIntegers(Triple the Sum Ints Same)\bin\Debug\ReturnSumOfTwoIntegers(Triple the Sum Ints Same).exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\ReturnSumOfTwoIntegers(Triple the Sum Ints Same)\bin\Debug\ReturnSumOfTwoIntegers(Triple the Sum Ints Same).pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\ReturnSumOfTwoIntegers(Triple the Sum Ints Same)\obj\Debug\ReturnSumOfTwoIntegers(Triple the Sum Ints Same).csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\ReturnSumOfTwoIntegers(Triple the Sum Ints Same)\obj\Debug\ReturnSumOfTwoIntegers(Triple the Sum Ints Same).csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\ReturnSumOfTwoIntegers(Triple the Sum Ints Same)\obj\Debug\ReturnSumOfTwoIntegers(Triple the Sum Ints Same).exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\ReturnSumOfTwoIntegers(Triple the Sum Ints Same)\obj\Debug\ReturnSumOfTwoIntegers(Triple the Sum Ints Same).pdb

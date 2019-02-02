@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Shift an element in left direction and return a new array\bin\Debug\Shift an element in left direction and return a new array.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Shift an element in left direction and return a new array\bin\Debug\Shift an element in left direction and return a new array.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Shift an element in left direction and return a new array\bin\Debug\Shift an element in left direction and return a new array.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Shift an element in left direction and return a new array\obj\Debug\Shift an element in left direction and return a new array.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Shift an element in left direction and return a new array\obj\Debug\Shift an element in left direction and return a new array.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Shift an element in left direction and return a new array\obj\Debug\Shift an element in left direction and return a new array.pdb

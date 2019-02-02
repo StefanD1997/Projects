@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Test if a given non-negative number is a multiple of 13\bin\Debug\Test if a given non-negative number is a multiple of 13.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Test if a given non-negative number is a multiple of 13\bin\Debug\Test if a given non-negative number is a multiple of 13.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Test if a given non-negative number is a multiple of 13\bin\Debug\Test if a given non-negative number is a multiple of 13.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Test if a given non-negative number is a multiple of 13\obj\Debug\Test if a given non-negative number is a multiple of 13.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Test if a given non-negative number is a multiple of 13\obj\Debug\Test if a given non-negative number is a multiple of 13.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Test if a given non-negative number is a multiple of 13\obj\Debug\Test if a given non-negative number is a multiple of 13.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Test if a given non-negative number is a multiple of 13\obj\Debug\Test if a given non-negative number is a multiple of 13.pdb

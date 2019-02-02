@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\String first 2 char x4 and string\bin\Debug\String first 2 char x4 and string.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\String first 2 char x4 and string\bin\Debug\String first 2 char x4 and string.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\String first 2 char x4 and string\bin\Debug\String first 2 char x4 and string.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\String first 2 char x4 and string\obj\Debug\String first 2 char x4 and string.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\String first 2 char x4 and string\obj\Debug\String first 2 char x4 and string.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\String first 2 char x4 and string\obj\Debug\String first 2 char x4 and string.pdb

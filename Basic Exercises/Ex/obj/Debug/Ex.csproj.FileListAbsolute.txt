@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Basic Exercises\Ex\bin\Debug\Ex.exe.config
+C:\Users\Stefan\source\repos\Basic Exercises\Ex\bin\Debug\Ex.exe
+C:\Users\Stefan\source\repos\Basic Exercises\Ex\bin\Debug\Ex.pdb
+C:\Users\Stefan\source\repos\Basic Exercises\Ex\obj\Debug\Ex.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Basic Exercises\Ex\obj\Debug\Ex.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Basic Exercises\Ex\obj\Debug\Ex.exe
+C:\Users\Stefan\source\repos\Basic Exercises\Ex\obj\Debug\Ex.pdb

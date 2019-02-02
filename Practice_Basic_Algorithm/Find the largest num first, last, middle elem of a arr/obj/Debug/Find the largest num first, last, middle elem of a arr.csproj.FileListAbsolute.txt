@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Find the largest num first, last, middle elem of a arr\bin\Debug\Find the largest num first, last, middle elem of a arr.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Find the largest num first, last, middle elem of a arr\bin\Debug\Find the largest num first, last, middle elem of a arr.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Find the largest num first, last, middle elem of a arr\bin\Debug\Find the largest num first, last, middle elem of a arr.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Find the largest num first, last, middle elem of a arr\obj\Debug\Find the largest num first, last, middle elem of a arr.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Find the largest num first, last, middle elem of a arr\obj\Debug\Find the largest num first, last, middle elem of a arr.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Find the largest num first, last, middle elem of a arr\obj\Debug\Find the largest num first, last, middle elem of a arr.pdb

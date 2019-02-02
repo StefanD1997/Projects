@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Convert the last 3 characters of a given string in upper case\bin\Debug\Convert the last 3 characters of a given string in upper case.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Convert the last 3 characters of a given string in upper case\bin\Debug\Convert the last 3 characters of a given string in upper case.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Convert the last 3 characters of a given string in upper case\bin\Debug\Convert the last 3 characters of a given string in upper case.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Convert the last 3 characters of a given string in upper case\obj\Debug\Convert the last 3 characters of a given string in upper case.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Convert the last 3 characters of a given string in upper case\obj\Debug\Convert the last 3 characters of a given string in upper case.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Convert the last 3 characters of a given string in upper case\obj\Debug\Convert the last 3 characters of a given string in upper case.pdb

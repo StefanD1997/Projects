@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if y is greater than x, and z is greater than y\bin\Debug\Check if y is greater than x, and z is greater than y.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if y is greater than x, and z is greater than y\bin\Debug\Check if y is greater than x, and z is greater than y.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if y is greater than x, and z is greater than y\bin\Debug\Check if y is greater than x, and z is greater than y.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if y is greater than x, and z is greater than y\obj\Debug\Check if y is greater than x, and z is greater than y.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if y is greater than x, and z is greater than y\obj\Debug\Check if y is greater than x, and z is greater than y.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if y is greater than x, and z is greater than y\obj\Debug\Check if y is greater than x, and z is greater than y.pdb

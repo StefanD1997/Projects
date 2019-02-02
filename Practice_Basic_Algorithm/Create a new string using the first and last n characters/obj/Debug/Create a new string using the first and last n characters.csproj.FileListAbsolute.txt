@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using the first and last n characters\bin\Debug\Create a new string using the first and last n characters.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using the first and last n characters\bin\Debug\Create a new string using the first and last n characters.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using the first and last n characters\bin\Debug\Create a new string using the first and last n characters.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using the first and last n characters\obj\Debug\Create a new string using the first and last n characters.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using the first and last n characters\obj\Debug\Create a new string using the first and last n characters.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string using the first and last n characters\obj\Debug\Create a new string using the first and last n characters.pdb

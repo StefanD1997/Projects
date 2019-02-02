@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Basic Exercises\Print the output of adding, subtracting, multiplying and dividing\bin\Debug\Print the output of adding, subtracting, multiplying and dividing.exe.config
+C:\Users\Stefan\source\repos\Basic Exercises\Print the output of adding, subtracting, multiplying and dividing\bin\Debug\Print the output of adding, subtracting, multiplying and dividing.exe
+C:\Users\Stefan\source\repos\Basic Exercises\Print the output of adding, subtracting, multiplying and dividing\bin\Debug\Print the output of adding, subtracting, multiplying and dividing.pdb
+C:\Users\Stefan\source\repos\Basic Exercises\Print the output of adding, subtracting, multiplying and dividing\obj\Debug\7.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Basic Exercises\Print the output of adding, subtracting, multiplying and dividing\obj\Debug\7.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Basic Exercises\Print the output of adding, subtracting, multiplying and dividing\obj\Debug\Print the output of adding, subtracting, multiplying and dividing.exe
+C:\Users\Stefan\source\repos\Basic Exercises\Print the output of adding, subtracting, multiplying and dividing\obj\Debug\Print the output of adding, subtracting, multiplying and dividing.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Add 3 chars of string to front and back\bin\Debug\Add 3 chars of string to front and back.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Add 3 chars of string to front and back\bin\Debug\Add 3 chars of string to front and back.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Add 3 chars of string to front and back\bin\Debug\Add 3 chars of string to front and back.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Add 3 chars of string to front and back\obj\Debug\Add 3 chars of string to front and back.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Add 3 chars of string to front and back\obj\Debug\Add 3 chars of string to front and back.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Add 3 chars of string to front and back\obj\Debug\Add 3 chars of string to front and back.pdb

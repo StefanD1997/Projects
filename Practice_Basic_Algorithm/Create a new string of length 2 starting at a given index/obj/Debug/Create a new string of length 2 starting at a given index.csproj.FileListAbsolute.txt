@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string of length 2 starting at a given index\bin\Debug\Create a new string of length 2 starting at a given index.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string of length 2 starting at a given index\bin\Debug\Create a new string of length 2 starting at a given index.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string of length 2 starting at a given index\bin\Debug\Create a new string of length 2 starting at a given index.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string of length 2 starting at a given index\obj\Debug\Create a new string of length 2 starting at a given index.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string of length 2 starting at a given index\obj\Debug\Create a new string of length 2 starting at a given index.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string of length 2 starting at a given index\obj\Debug\Create a new string of length 2 starting at a given index.pdb

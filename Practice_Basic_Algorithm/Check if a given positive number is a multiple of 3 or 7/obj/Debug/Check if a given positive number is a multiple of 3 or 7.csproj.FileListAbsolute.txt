@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given positive number is a multiple of 3 or 7\bin\Debug\Check if a given positive number is a multiple of 3 or 7.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given positive number is a multiple of 3 or 7\bin\Debug\Check if a given positive number is a multiple of 3 or 7.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given positive number is a multiple of 3 or 7\bin\Debug\Check if a given positive number is a multiple of 3 or 7.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given positive number is a multiple of 3 or 7\obj\Debug\Check if a given positive number is a multiple of 3 or 7.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given positive number is a multiple of 3 or 7\obj\Debug\Check if a given positive number is a multiple of 3 or 7.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given positive number is a multiple of 3 or 7\obj\Debug\Check if a given positive number is a multiple of 3 or 7.pdb

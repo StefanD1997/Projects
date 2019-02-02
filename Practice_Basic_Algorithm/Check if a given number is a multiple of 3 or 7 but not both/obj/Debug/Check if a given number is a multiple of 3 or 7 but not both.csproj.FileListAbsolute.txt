@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given number is a multiple of 3 or 7 but not both\bin\Debug\Check if a given number is a multiple of 3 or 7 but not both.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given number is a multiple of 3 or 7 but not both\bin\Debug\Check if a given number is a multiple of 3 or 7 but not both.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given number is a multiple of 3 or 7 but not both\bin\Debug\Check if a given number is a multiple of 3 or 7 but not both.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given number is a multiple of 3 or 7 but not both\obj\Debug\Check if a given number is a multiple of 3 or 7 but not both.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given number is a multiple of 3 or 7 but not both\obj\Debug\Check if a given number is a multiple of 3 or 7 but not both.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given number is a multiple of 3 or 7 but not both\obj\Debug\Check if a given number is a multiple of 3 or 7 but not both.pdb

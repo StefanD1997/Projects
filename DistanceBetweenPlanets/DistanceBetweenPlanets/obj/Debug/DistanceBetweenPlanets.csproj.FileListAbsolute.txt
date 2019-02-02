@@ -1,0 +1,10 @@
+C:\Users\Stefan\source\repos\DistanceBetweenPlanets\DistanceBetweenPlanets\bin\Debug\DistanceBetweenPlanets.exe.config
+C:\Users\Stefan\source\repos\DistanceBetweenPlanets\DistanceBetweenPlanets\bin\Debug\DistanceBetweenPlanets.exe
+C:\Users\Stefan\source\repos\DistanceBetweenPlanets\DistanceBetweenPlanets\bin\Debug\DistanceBetweenPlanets.pdb
+C:\Users\Stefan\source\repos\DistanceBetweenPlanets\DistanceBetweenPlanets\obj\Debug\DistanceBetweenPlanets.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\DistanceBetweenPlanets\DistanceBetweenPlanets\obj\Debug\DistanceBetweenPlanets.Form1.resources
+C:\Users\Stefan\source\repos\DistanceBetweenPlanets\DistanceBetweenPlanets\obj\Debug\DistanceBetweenPlanets.Properties.Resources.resources
+C:\Users\Stefan\source\repos\DistanceBetweenPlanets\DistanceBetweenPlanets\obj\Debug\DistanceBetweenPlanets.csproj.GenerateResource.cache
+C:\Users\Stefan\source\repos\DistanceBetweenPlanets\DistanceBetweenPlanets\obj\Debug\DistanceBetweenPlanets.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\DistanceBetweenPlanets\DistanceBetweenPlanets\obj\Debug\DistanceBetweenPlanets.exe
+C:\Users\Stefan\source\repos\DistanceBetweenPlanets\DistanceBetweenPlanets\obj\Debug\DistanceBetweenPlanets.pdb

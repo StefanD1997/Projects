@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check whether a given array of integers contains 5's and 7's\bin\Debug\Check whether a given array of integers contains 5's and 7's.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check whether a given array of integers contains 5's and 7's\bin\Debug\Check whether a given array of integers contains 5's and 7's.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check whether a given array of integers contains 5's and 7's\bin\Debug\Check whether a given array of integers contains 5's and 7's.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check whether a given array of integers contains 5's and 7's\obj\Debug\Check whether a given array of integers contains 5's and 7's.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check whether a given array of integers contains 5's and 7's\obj\Debug\Check whether a given array of integers contains 5's and 7's.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check whether a given array of integers contains 5's and 7's\obj\Debug\Check whether a given array of integers contains 5's and 7's.pdb

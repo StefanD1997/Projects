@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a list ints where each int is multiplied itself 3times\bin\Debug\Create a list ints where each int is multiplied itself 3times.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a list ints where each int is multiplied itself 3times\bin\Debug\Create a list ints where each int is multiplied itself 3times.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a list ints where each int is multiplied itself 3times\bin\Debug\Create a list ints where each int is multiplied itself 3times.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a list ints where each int is multiplied itself 3times\obj\Debug\Create a list ints where each int is multiplied itself 3times.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a list ints where each int is multiplied itself 3times\obj\Debug\Create a list ints where each int is multiplied itself 3times.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a list ints where each int is multiplied itself 3times\obj\Debug\Create a list ints where each int is multiplied itself 3times.pdb

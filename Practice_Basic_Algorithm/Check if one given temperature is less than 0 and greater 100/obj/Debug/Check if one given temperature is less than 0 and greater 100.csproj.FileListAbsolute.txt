@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if one given temperature is less than 0 and greater 100\bin\Debug\Check if one given temperature is less than 0 and greater 100.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if one given temperature is less than 0 and greater 100\bin\Debug\Check if one given temperature is less than 0 and greater 100.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if one given temperature is less than 0 and greater 100\bin\Debug\Check if one given temperature is less than 0 and greater 100.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if one given temperature is less than 0 and greater 100\obj\Debug\Check if one given temperature is less than 0 and greater 100.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if one given temperature is less than 0 and greater 100\obj\Debug\Check if one given temperature is less than 0 and greater 100.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if one given temperature is less than 0 and greater 100\obj\Debug\Check if one given temperature is less than 0 and greater 100.pdb

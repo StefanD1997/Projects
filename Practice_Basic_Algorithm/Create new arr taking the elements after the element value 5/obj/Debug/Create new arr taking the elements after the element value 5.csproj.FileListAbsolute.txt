@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create new arr taking the elements after the element value 5\bin\Debug\Create new arr taking the elements after the element value 5.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create new arr taking the elements after the element value 5\bin\Debug\Create new arr taking the elements after the element value 5.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create new arr taking the elements after the element value 5\bin\Debug\Create new arr taking the elements after the element value 5.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create new arr taking the elements after the element value 5\obj\Debug\Create new arr taking the elements after the element value 5.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create new arr taking the elements after the element value 5\obj\Debug\Create new arr taking the elements after the element value 5.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create new arr taking the elements after the element value 5\obj\Debug\Create new arr taking the elements after the element value 5.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string contains between 2 and 4 'z'\bin\Debug\Check if a given string contains between 2 and 4 'z'.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string contains between 2 and 4 'z'\bin\Debug\Check if a given string contains between 2 and 4 'z'.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string contains between 2 and 4 'z'\bin\Debug\Check if a given string contains between 2 and 4 'z'.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string contains between 2 and 4 'z'\obj\Debug\Check if a given string contains between 2 and 4 'z'.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string contains between 2 and 4 'z'\obj\Debug\Check if a given string contains between 2 and 4 'z'.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given string contains between 2 and 4 'z'\obj\Debug\Check if a given string contains between 2 and 4 'z'.pdb

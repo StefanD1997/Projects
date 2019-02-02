@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if the number of 3's is greater than the number of 5's\bin\Debug\Check if the number of 3's is greater than the number of 5's.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if the number of 3's is greater than the number of 5's\bin\Debug\Check if the number of 3's is greater than the number of 5's.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if the number of 3's is greater than the number of 5's\bin\Debug\Check if the number of 3's is greater than the number of 5's.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if the number of 3's is greater than the number of 5's\obj\Debug\Check if the number of 3's is greater than the number of 5's.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if the number of 3's is greater than the number of 5's\obj\Debug\Check if the number of 3's is greater than the number of 5's.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if the number of 3's is greater than the number of 5's\obj\Debug\Check if the number of 3's is greater than the number of 5's.pdb

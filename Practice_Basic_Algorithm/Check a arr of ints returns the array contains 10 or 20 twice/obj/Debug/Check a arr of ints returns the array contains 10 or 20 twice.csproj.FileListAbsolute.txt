@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a arr of ints returns the array contains 10 or 20 twice\bin\Debug\Check a arr of ints returns the array contains 10 or 20 twice.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a arr of ints returns the array contains 10 or 20 twice\bin\Debug\Check a arr of ints returns the array contains 10 or 20 twice.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a arr of ints returns the array contains 10 or 20 twice\bin\Debug\Check a arr of ints returns the array contains 10 or 20 twice.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a arr of ints returns the array contains 10 or 20 twice\obj\Debug\Check a arr of ints returns the array contains 10 or 20 twice.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a arr of ints returns the array contains 10 or 20 twice\obj\Debug\Check a arr of ints returns the array contains 10 or 20 twice.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a arr of ints returns the array contains 10 or 20 twice\obj\Debug\Check a arr of ints returns the array contains 10 or 20 twice.pdb

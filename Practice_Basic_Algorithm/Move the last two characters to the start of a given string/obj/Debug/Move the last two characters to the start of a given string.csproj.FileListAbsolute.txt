@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Move the last two characters to the start of a given string\bin\Debug\Move the last two characters to the start of a given string.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Move the last two characters to the start of a given string\bin\Debug\Move the last two characters to the start of a given string.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Move the last two characters to the start of a given string\bin\Debug\Move the last two characters to the start of a given string.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Move the last two characters to the start of a given string\obj\Debug\Move the last two characters to the start of a given string.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Move the last two characters to the start of a given string\obj\Debug\Move the last two characters to the start of a given string.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Move the last two characters to the start of a given string\obj\Debug\Move the last two characters to the start of a given string.pdb

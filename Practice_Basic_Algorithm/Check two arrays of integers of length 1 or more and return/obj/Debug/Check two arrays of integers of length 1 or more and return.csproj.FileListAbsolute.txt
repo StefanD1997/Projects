@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check two arrays of integers of length 1 or more and return\bin\Debug\Check two arrays of integers of length 1 or more and return.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check two arrays of integers of length 1 or more and return\bin\Debug\Check two arrays of integers of length 1 or more and return.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check two arrays of integers of length 1 or more and return\bin\Debug\Check two arrays of integers of length 1 or more and return.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check two arrays of integers of length 1 or more and return\obj\Debug\Check two arrays of integers of length 1 or more and return.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check two arrays of integers of length 1 or more and return\obj\Debug\Check two arrays of integers of length 1 or more and return.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check two arrays of integers of length 1 or more and return\obj\Debug\Check two arrays of integers of length 1 or more and return.pdb

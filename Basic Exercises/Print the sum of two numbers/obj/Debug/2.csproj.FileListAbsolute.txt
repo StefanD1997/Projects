@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Basic Exercises\Print the sum of two numbers\bin\Debug\Print the sum of two numbers.exe.config
+C:\Users\Stefan\source\repos\Basic Exercises\Print the sum of two numbers\bin\Debug\Print the sum of two numbers.exe
+C:\Users\Stefan\source\repos\Basic Exercises\Print the sum of two numbers\bin\Debug\Print the sum of two numbers.pdb
+C:\Users\Stefan\source\repos\Basic Exercises\Print the sum of two numbers\obj\Debug\2.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Basic Exercises\Print the sum of two numbers\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Basic Exercises\Print the sum of two numbers\obj\Debug\Print the sum of two numbers.exe
+C:\Users\Stefan\source\repos\Basic Exercises\Print the sum of two numbers\obj\Debug\Print the sum of two numbers.pdb

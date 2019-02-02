@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an array of ints of length 1 and return if 10 appears\bin\Debug\Check an array of ints of length 1 and return if 10 appears.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an array of ints of length 1 and return if 10 appears\bin\Debug\Check an array of ints of length 1 and return if 10 appears.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an array of ints of length 1 and return if 10 appears\bin\Debug\Check an array of ints of length 1 and return if 10 appears.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an array of ints of length 1 and return if 10 appears\obj\Debug\Check an array of ints of length 1 and return if 10 appears.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an array of ints of length 1 and return if 10 appears\obj\Debug\Check an array of ints of length 1 and return if 10 appears.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an array of ints of length 1 and return if 10 appears\obj\Debug\Check an array of ints of length 1 and return if 10 appears.pdb

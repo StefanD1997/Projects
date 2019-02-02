@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of the three integers 2\bin\Debug\Compute the sum of the three integers 2.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of the three integers 2\bin\Debug\Compute the sum of the three integers 2.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of the three integers 2\bin\Debug\Compute the sum of the three integers 2.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of the three integers 2\obj\Debug\Compute the sum of the three integers 2.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of the three integers 2\obj\Debug\Compute the sum of the three integers 2.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of the three integers 2\obj\Debug\Compute the sum of the three integers 2.pdb

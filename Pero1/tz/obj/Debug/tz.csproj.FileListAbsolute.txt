@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Pero1\tz\bin\Debug\tz.exe.config
+C:\Users\Stefan\source\repos\Pero1\tz\bin\Debug\tz.exe
+C:\Users\Stefan\source\repos\Pero1\tz\bin\Debug\tz.pdb
+C:\Users\Stefan\source\repos\Pero1\tz\obj\Debug\tz.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Pero1\tz\obj\Debug\tz.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Pero1\tz\obj\Debug\tz.exe
+C:\Users\Stefan\source\repos\Pero1\tz\obj\Debug\tz.pdb

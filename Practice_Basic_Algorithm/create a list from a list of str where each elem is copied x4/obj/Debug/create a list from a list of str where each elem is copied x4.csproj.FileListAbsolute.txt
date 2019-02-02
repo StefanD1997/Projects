@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\create a list from a list of str where each elem is copied x4\bin\Debug\create a list from a list of str where each elem is copied x4.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\create a list from a list of str where each elem is copied x4\bin\Debug\create a list from a list of str where each elem is copied x4.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\create a list from a list of str where each elem is copied x4\bin\Debug\create a list from a list of str where each elem is copied x4.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\create a list from a list of str where each elem is copied x4\obj\Debug\create a list from a list of str where each elem is copied x4.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\create a list from a list of str where each elem is copied x4\obj\Debug\create a list from a list of str where each elem is copied x4.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\create a list from a list of str where each elem is copied x4\obj\Debug\create a list from a list of str where each elem is copied x4.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\create a list from a list of str where each elem is copied x4\obj\Debug\create a list from a list of str where each elem is copied x4.pdb

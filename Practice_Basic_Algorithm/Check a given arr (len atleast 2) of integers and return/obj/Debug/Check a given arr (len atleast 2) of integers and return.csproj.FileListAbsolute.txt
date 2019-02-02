@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a given arr (len atleast 2) of integers and return\bin\Debug\Check a given arr (len atleast 2) of integers and return.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a given arr (len atleast 2) of integers and return\bin\Debug\Check a given arr (len atleast 2) of integers and return.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a given arr (len atleast 2) of integers and return\bin\Debug\Check a given arr (len atleast 2) of integers and return.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a given arr (len atleast 2) of integers and return\obj\Debug\Check a given arr (len atleast 2) of integers and return.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a given arr (len atleast 2) of integers and return\obj\Debug\Check a given arr (len atleast 2) of integers and return.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a given arr (len atleast 2) of integers and return\obj\Debug\Check a given arr (len atleast 2) of integers and return.pdb

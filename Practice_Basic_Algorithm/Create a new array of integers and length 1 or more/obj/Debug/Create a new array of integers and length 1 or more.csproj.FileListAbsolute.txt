@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array of integers and length 1 or more\obj\Debug\Create a new array of integers and length 1 or more.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array of integers and length 1 or more\obj\Debug\Create a new array of integers and length 1 or more.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array of integers and length 1 or more\obj\Debug\Create a new array of integers and length 1 or more.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array of integers and length 1 or more\bin\Debug\Create a new array of integers and length 1 or more.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array of integers and length 1 or more\bin\Debug\Create a new array of integers and length 1 or more.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new array of integers and length 1 or more\bin\Debug\Create a new array of integers and length 1 or more.pdb

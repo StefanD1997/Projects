@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count the string aa in a given string and aaa is two aa\bin\Debug\Count the string aa in a given string and aaa is two aa.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count the string aa in a given string and aaa is two aa\bin\Debug\Count the string aa in a given string and aaa is two aa.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count the string aa in a given string and aaa is two aa\bin\Debug\Count the string aa in a given string and aaa is two aa.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count the string aa in a given string and aaa is two aa\obj\Debug\Count the string aa in a given string and aaa is two aa.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count the string aa in a given string and aaa is two aa\obj\Debug\Count the string aa in a given string and aaa is two aa.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count the string aa in a given string and aaa is two aa\obj\Debug\Count the string aa in a given string and aaa is two aa.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count the string aa in a given string and aaa is two aa\obj\Debug\Count the string aa in a given string and aaa is two aa.pdb

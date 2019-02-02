@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new list from a given list of strings\bin\Debug\Create a new list from a given list of strings.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new list from a given list of strings\bin\Debug\Create a new list from a given list of strings.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new list from a given list of strings\bin\Debug\Create a new list from a given list of strings.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new list from a given list of strings\obj\Debug\Create a new list from a given list of strings.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new list from a given list of strings\obj\Debug\Create a new list from a given list of strings.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new list from a given list of strings\obj\Debug\Create a new list from a given list of strings.pdb

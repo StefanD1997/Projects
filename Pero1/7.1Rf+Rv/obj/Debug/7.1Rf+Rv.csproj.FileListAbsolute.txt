@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Pero1\7.1Rf+Rv\bin\Debug\7.1Rf+Rv.exe.config
+C:\Users\Stefan\source\repos\Pero1\7.1Rf+Rv\bin\Debug\7.1Rf+Rv.exe
+C:\Users\Stefan\source\repos\Pero1\7.1Rf+Rv\bin\Debug\7.1Rf+Rv.pdb
+C:\Users\Stefan\source\repos\Pero1\7.1Rf+Rv\obj\Debug\7.1Rf+Rv.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Pero1\7.1Rf+Rv\obj\Debug\7.1Rf+Rv.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Pero1\7.1Rf+Rv\obj\Debug\7.1Rf+Rv.exe
+C:\Users\Stefan\source\repos\Pero1\7.1Rf+Rv\obj\Debug\7.1Rf+Rv.pdb

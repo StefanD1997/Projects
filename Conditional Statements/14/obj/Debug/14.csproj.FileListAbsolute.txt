@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Conditional Statements\14\bin\Debug\14.exe.config
+C:\Users\Stefan\source\repos\Conditional Statements\14\bin\Debug\14.exe
+C:\Users\Stefan\source\repos\Conditional Statements\14\bin\Debug\14.pdb
+C:\Users\Stefan\source\repos\Conditional Statements\14\obj\Debug\14.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Conditional Statements\14\obj\Debug\14.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Conditional Statements\14\obj\Debug\14.exe
+C:\Users\Stefan\source\repos\Conditional Statements\14\obj\Debug\14.pdb

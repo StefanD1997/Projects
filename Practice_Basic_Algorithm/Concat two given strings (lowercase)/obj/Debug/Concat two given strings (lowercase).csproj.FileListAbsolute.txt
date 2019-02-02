@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Concat two given strings (lowercase)\bin\Debug\Concat two given strings (lowercase).exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Concat two given strings (lowercase)\bin\Debug\Concat two given strings (lowercase).exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Concat two given strings (lowercase)\bin\Debug\Concat two given strings (lowercase).pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Concat two given strings (lowercase)\obj\Debug\Concat two given strings (lowercase).csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Concat two given strings (lowercase)\obj\Debug\Concat two given strings (lowercase).exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Concat two given strings (lowercase)\obj\Debug\Concat two given strings (lowercase).pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if possible to add two integers to get third integer\bin\Debug\Check if possible to add two integers to get third integer.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if possible to add two integers to get third integer\bin\Debug\Check if possible to add two integers to get third integer.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if possible to add two integers to get third integer\bin\Debug\Check if possible to add two integers to get third integer.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if possible to add two integers to get third integer\obj\Debug\Check if possible to add two integers to get third integer.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if possible to add two integers to get third integer\obj\Debug\Check if possible to add two integers to get third integer.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if possible to add two integers to get third integer\obj\Debug\Check if possible to add two integers to get third integer.pdb

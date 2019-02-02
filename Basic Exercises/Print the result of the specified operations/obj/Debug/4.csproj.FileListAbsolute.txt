@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Basic Exercises\Print the result of the specified operations\bin\Debug\Print the result of the specified operations.exe.config
+C:\Users\Stefan\source\repos\Basic Exercises\Print the result of the specified operations\bin\Debug\Print the result of the specified operations.exe
+C:\Users\Stefan\source\repos\Basic Exercises\Print the result of the specified operations\bin\Debug\Print the result of the specified operations.pdb
+C:\Users\Stefan\source\repos\Basic Exercises\Print the result of the specified operations\obj\Debug\4.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Basic Exercises\Print the result of the specified operations\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Basic Exercises\Print the result of the specified operations\obj\Debug\Print the result of the specified operations.exe
+C:\Users\Stefan\source\repos\Basic Exercises\Print the result of the specified operations\obj\Debug\Print the result of the specified operations.pdb

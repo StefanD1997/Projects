@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an arr of ints and return if specified num of elements\bin\Debug\Check an arr of ints and return if specified num of elements.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an arr of ints and return if specified num of elements\bin\Debug\Check an arr of ints and return if specified num of elements.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an arr of ints and return if specified num of elements\bin\Debug\Check an arr of ints and return if specified num of elements.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an arr of ints and return if specified num of elements\obj\Debug\Check an arr of ints and return if specified num of elements.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an arr of ints and return if specified num of elements\obj\Debug\Check an arr of ints and return if specified num of elements.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an arr of ints and return if specified num of elements\obj\Debug\Check an arr of ints and return if specified num of elements.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an arr of ints and return if specified num of elements\obj\Debug\Check an arr of ints and return if specified num of elements.pdb

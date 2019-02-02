@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a string like aababcabcd from a given string abcd\bin\Debug\Create a string like aababcabcd from a given string abcd.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a string like aababcabcd from a given string abcd\bin\Debug\Create a string like aababcabcd from a given string abcd.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a string like aababcabcd from a given string abcd\bin\Debug\Create a string like aababcabcd from a given string abcd.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a string like aababcabcd from a given string abcd\obj\Debug\Create a string like aababcabcd from a given string abcd.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a string like aababcabcd from a given string abcd\obj\Debug\Create a string like aababcabcd from a given string abcd.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a string like aababcabcd from a given string abcd\obj\Debug\Create a string like aababcabcd from a given string abcd.pdb

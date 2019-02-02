@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check two given integers, each in the range 10 99\bin\Debug\Check two given integers, each in the range 10 99.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check two given integers, each in the range 10 99\bin\Debug\Check two given integers, each in the range 10 99.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check two given integers, each in the range 10 99\bin\Debug\Check two given integers, each in the range 10 99.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check two given integers, each in the range 10 99\obj\Debug\Check two given integers, each in the range 10 99.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check two given integers, each in the range 10 99\obj\Debug\Check two given integers, each in the range 10 99.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check two given integers, each in the range 10 99\obj\Debug\Check two given integers, each in the range 10 99.pdb

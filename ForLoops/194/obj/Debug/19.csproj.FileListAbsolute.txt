@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\ForLoops\194\bin\Debug\194.exe.config
+C:\Users\Stefan\source\repos\ForLoops\194\bin\Debug\194.exe
+C:\Users\Stefan\source\repos\ForLoops\194\bin\Debug\194.pdb
+C:\Users\Stefan\source\repos\ForLoops\194\obj\Debug\19.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\ForLoops\194\obj\Debug\194.exe
+C:\Users\Stefan\source\repos\ForLoops\194\obj\Debug\194.pdb

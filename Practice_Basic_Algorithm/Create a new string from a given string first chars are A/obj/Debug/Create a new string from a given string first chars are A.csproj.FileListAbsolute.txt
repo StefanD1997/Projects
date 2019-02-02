@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string from a given string first chars are A\bin\Debug\Create a new string from a given string first chars are A.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string from a given string first chars are A\bin\Debug\Create a new string from a given string first chars are A.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string from a given string first chars are A\bin\Debug\Create a new string from a given string first chars are A.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string from a given string first chars are A\obj\Debug\Create a new string from a given string first chars are A.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string from a given string first chars are A\obj\Debug\Create a new string from a given string first chars are A.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string from a given string first chars are A\obj\Debug\Create a new string from a given string first chars are A.pdb

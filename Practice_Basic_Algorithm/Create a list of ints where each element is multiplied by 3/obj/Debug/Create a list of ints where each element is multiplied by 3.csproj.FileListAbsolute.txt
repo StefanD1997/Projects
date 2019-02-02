@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a list of ints where each element is multiplied by 3\bin\Debug\Create a list of ints where each element is multiplied by 3.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a list of ints where each element is multiplied by 3\bin\Debug\Create a list of ints where each element is multiplied by 3.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a list of ints where each element is multiplied by 3\bin\Debug\Create a list of ints where each element is multiplied by 3.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a list of ints where each element is multiplied by 3\obj\Debug\Create a list of ints where each element is multiplied by 3.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a list of ints where each element is multiplied by 3\obj\Debug\Create a list of ints where each element is multiplied by 3.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a list of ints where each element is multiplied by 3\obj\Debug\Create a list of ints where each element is multiplied by 3.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if string starts with F or end with B\bin\Debug\Check if string starts with F or end with B.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if string starts with F or end with B\bin\Debug\Check if string starts with F or end with B.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if string starts with F or end with B\bin\Debug\Check if string starts with F or end with B.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if string starts with F or end with B\obj\Debug\Check if string starts with F or end with B.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if string starts with F or end with B\obj\Debug\Check if string starts with F or end with B.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if string starts with F or end with B\obj\Debug\Check if string starts with F or end with B.pdb

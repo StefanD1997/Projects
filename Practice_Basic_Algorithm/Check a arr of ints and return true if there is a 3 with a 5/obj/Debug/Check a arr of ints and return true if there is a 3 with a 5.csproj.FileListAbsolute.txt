@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a arr of ints and return true if there is a 3 with a 5\bin\Debug\Check a arr of ints and return true if there is a 3 with a 5.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a arr of ints and return true if there is a 3 with a 5\bin\Debug\Check a arr of ints and return true if there is a 3 with a 5.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a arr of ints and return true if there is a 3 with a 5\bin\Debug\Check a arr of ints and return true if there is a 3 with a 5.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a arr of ints and return true if there is a 3 with a 5\obj\Debug\Check a arr of ints and return true if there is a 3 with a 5.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a arr of ints and return true if there is a 3 with a 5\obj\Debug\Check a arr of ints and return true if there is a 3 with a 5.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a arr of ints and return true if there is a 3 with a 5\obj\Debug\Check a arr of ints and return true if there is a 3 with a 5.pdb

@@ -1,0 +1,73 @@
+﻿@model IEnumerable<GamesDemoMvc.Models.Game>
+@using System.ComponentModel.DataAnnotations;
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Games</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@using (Html.BeginForm())
+{
+<p>
+    Find by name: @Html.TextBox("SearchString")
+        <input type="submit" value="Search" />
+</p>
+}
+
+<table class="table table-striped">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.gamePicture)
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.gameCategories)*@
+            @Html.ActionLink("Categories", "Index", new { sortOrder = ViewBag.CategoriesSortParam })
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.gamePrice)*@
+            @Html.ActionLink("Price", "Index", new { sortOrder = ViewBag.PriceSortParam })
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.gameName)*@
+            @Html.ActionLink("Name", "Index", new { sortOrder = ViewBag.NameSortParam })
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.gameReleaseDate)*@
+            @Html.ActionLink("Release Date", "Index", new { sortOrder = ViewBag.DateSortParam })
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @*<img src="/Game/RetrieveImage/@item.gameID" alt="" height=100 width=200 />*@
+                <img src="@Url.Content("~/Images/" + @item.gameName + ".jpg")" alt="" height="200" width="200" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.gameCategories)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.gamePrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.gameName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.gameReleaseDate)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.gameID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.gameID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.gameID })
+            </td>
+        </tr>
+    }
+
+</table>

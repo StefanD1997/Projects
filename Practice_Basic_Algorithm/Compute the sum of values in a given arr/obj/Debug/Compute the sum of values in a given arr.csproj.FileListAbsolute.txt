@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of values in a given arr\bin\Debug\Compute the sum of values in a given arr.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of values in a given arr\bin\Debug\Compute the sum of values in a given arr.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of values in a given arr\bin\Debug\Compute the sum of values in a given arr.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of values in a given arr\obj\Debug\Compute the sum of values in a given arr.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of values in a given arr\obj\Debug\Compute the sum of values in a given arr.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of values in a given arr\obj\Debug\Compute the sum of values in a given arr.pdb

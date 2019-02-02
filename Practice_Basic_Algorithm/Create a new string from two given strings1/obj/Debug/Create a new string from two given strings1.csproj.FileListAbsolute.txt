@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string from two given strings1\bin\Debug\Create a new string from two given strings1.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string from two given strings1\bin\Debug\Create a new string from two given strings1.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string from two given strings1\bin\Debug\Create a new string from two given strings1.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string from two given strings1\obj\Debug\Create a new string from two given strings1.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string from two given strings1\obj\Debug\Create a new string from two given strings1.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string from two given strings1\obj\Debug\Create a new string from two given strings1.pdb

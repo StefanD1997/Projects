@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Pero1\Fk za tabela\bin\Debug\Fk za tabela.exe.config
+C:\Users\Stefan\source\repos\Pero1\Fk za tabela\bin\Debug\Fk za tabela.exe
+C:\Users\Stefan\source\repos\Pero1\Fk za tabela\bin\Debug\Fk za tabela.pdb
+C:\Users\Stefan\source\repos\Pero1\Fk za tabela\obj\Debug\Fk za tabela.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Pero1\Fk za tabela\obj\Debug\Fk za tabela.exe
+C:\Users\Stefan\source\repos\Pero1\Fk za tabela\obj\Debug\Fk za tabela.pdb

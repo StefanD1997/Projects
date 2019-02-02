@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\If a string has a diff lenth remove the chars from longer str\bin\Debug\If a string has a diff lenth remove the chars from longer str.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\If a string has a diff lenth remove the chars from longer str\bin\Debug\If a string has a diff lenth remove the chars from longer str.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\If a string has a diff lenth remove the chars from longer str\bin\Debug\If a string has a diff lenth remove the chars from longer str.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\If a string has a diff lenth remove the chars from longer str\obj\Debug\If a string has a diff lenth remove the chars from longer str.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\If a string has a diff lenth remove the chars from longer str\obj\Debug\If a string has a diff lenth remove the chars from longer str.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\If a string has a diff lenth remove the chars from longer str\obj\Debug\If a string has a diff lenth remove the chars from longer str.pdb

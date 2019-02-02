@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of two given integers x and y\bin\Debug\Compute the sum of two given integers x and y.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of two given integers x and y\bin\Debug\Compute the sum of two given integers x and y.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of two given integers x and y\bin\Debug\Compute the sum of two given integers x and y.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of two given integers x and y\obj\Debug\Compute the sum of two given integers x and y.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of two given integers x and y\obj\Debug\Compute the sum of two given integers x and y.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of two given integers x and y\obj\Debug\Compute the sum of two given integers x and y.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Compute the sum of two given integers x and y\obj\Debug\Compute the sum of two given integers x and y.csprojAssemblyReference.cache

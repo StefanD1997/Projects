@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Remove all a in each string in given list of strings\bin\Debug\Remove all a in each string in given list of strings.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Remove all a in each string in given list of strings\bin\Debug\Remove all a in each string in given list of strings.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Remove all a in each string in given list of strings\bin\Debug\Remove all a in each string in given list of strings.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Remove all a in each string in given list of strings\obj\Debug\Remove all a in each string in given list of strings.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Remove all a in each string in given list of strings\obj\Debug\Remove all a in each string in given list of strings.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Remove all a in each string in given list of strings\obj\Debug\Remove all a in each string in given list of strings.pdb

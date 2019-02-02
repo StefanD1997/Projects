@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given number is within 2 of a multiple of 10\bin\Debug\Check if a given number is within 2 of a multiple of 10.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given number is within 2 of a multiple of 10\bin\Debug\Check if a given number is within 2 of a multiple of 10.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given number is within 2 of a multiple of 10\bin\Debug\Check if a given number is within 2 of a multiple of 10.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given number is within 2 of a multiple of 10\obj\Debug\Check if a given number is within 2 of a multiple of 10.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given number is within 2 of a multiple of 10\obj\Debug\Check if a given number is within 2 of a multiple of 10.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given number is within 2 of a multiple of 10\obj\Debug\Check if a given number is within 2 of a multiple of 10.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if a given number is within 2 of a multiple of 10\obj\Debug\Check if a given number is within 2 of a multiple of 10.pdb

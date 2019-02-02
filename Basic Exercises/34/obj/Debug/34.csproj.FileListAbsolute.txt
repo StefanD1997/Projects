@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Basic Exercises\34\bin\Debug\34.exe.config
+C:\Users\Stefan\source\repos\Basic Exercises\34\bin\Debug\34.exe
+C:\Users\Stefan\source\repos\Basic Exercises\34\bin\Debug\34.pdb
+C:\Users\Stefan\source\repos\Basic Exercises\34\obj\Debug\34.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Basic Exercises\34\obj\Debug\34.exe
+C:\Users\Stefan\source\repos\Basic Exercises\34\obj\Debug\34.pdb

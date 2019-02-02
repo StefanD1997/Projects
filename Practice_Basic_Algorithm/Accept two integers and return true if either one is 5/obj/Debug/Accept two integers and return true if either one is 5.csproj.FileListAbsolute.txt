@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Accept two integers and return true if either one is 5\bin\Debug\Accept two integers and return true if either one is 5.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Accept two integers and return true if either one is 5\bin\Debug\Accept two integers and return true if either one is 5.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Accept two integers and return true if either one is 5\bin\Debug\Accept two integers and return true if either one is 5.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Accept two integers and return true if either one is 5\obj\Debug\Accept two integers and return true if either one is 5.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Accept two integers and return true if either one is 5\obj\Debug\Accept two integers and return true if either one is 5.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Accept two integers and return true if either one is 5\obj\Debug\Accept two integers and return true if either one is 5.pdb

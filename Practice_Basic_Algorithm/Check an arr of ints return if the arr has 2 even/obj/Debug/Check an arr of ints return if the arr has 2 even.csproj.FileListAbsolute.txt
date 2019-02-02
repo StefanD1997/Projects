@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an arr of ints return if the arr has 2 even\bin\Debug\Check an arr of ints return if the arr has 2 even.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an arr of ints return if the arr has 2 even\bin\Debug\Check an arr of ints return if the arr has 2 even.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an arr of ints return if the arr has 2 even\bin\Debug\Check an arr of ints return if the arr has 2 even.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an arr of ints return if the arr has 2 even\obj\Debug\Check an arr of ints return if the arr has 2 even.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an arr of ints return if the arr has 2 even\obj\Debug\Check an arr of ints return if the arr has 2 even.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check an arr of ints return if the arr has 2 even\obj\Debug\Check an arr of ints return if the arr has 2 even.pdb

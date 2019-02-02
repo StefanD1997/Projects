@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check which number nearest to value 100 among two ints\bin\Debug\Check which number nearest to value 100 among two ints.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check which number nearest to value 100 among two ints\bin\Debug\Check which number nearest to value 100 among two ints.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check which number nearest to value 100 among two ints\bin\Debug\Check which number nearest to value 100 among two ints.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check which number nearest to value 100 among two ints\obj\Debug\Check which number nearest to value 100 among two ints.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check which number nearest to value 100 among two ints\obj\Debug\Check which number nearest to value 100 among two ints.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check which number nearest to value 100 among two ints\obj\Debug\Check which number nearest to value 100 among two ints.pdb

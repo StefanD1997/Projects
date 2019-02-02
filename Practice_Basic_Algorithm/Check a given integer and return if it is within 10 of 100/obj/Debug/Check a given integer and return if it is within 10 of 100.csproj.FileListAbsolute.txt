@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a given integer and return if it is within 10 of 100\bin\Debug\Check a given integer and return if it is within 10 of 100.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a given integer and return if it is within 10 of 100\bin\Debug\Check a given integer and return if it is within 10 of 100.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a given integer and return if it is within 10 of 100\bin\Debug\Check a given integer and return if it is within 10 of 100.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a given integer and return if it is within 10 of 100\obj\Debug\Check a given integer and return if it is within 10 of 100.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a given integer and return if it is within 10 of 100\obj\Debug\Check a given integer and return if it is within 10 of 100.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check a given integer and return if it is within 10 of 100\obj\Debug\Check a given integer and return if it is within 10 of 100.pdb

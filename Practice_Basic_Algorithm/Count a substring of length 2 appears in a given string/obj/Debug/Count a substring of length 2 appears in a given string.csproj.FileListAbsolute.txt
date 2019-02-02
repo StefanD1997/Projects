@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count a substring of length 2 appears in a given string\bin\Debug\Count a substring of length 2 appears in a given string.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count a substring of length 2 appears in a given string\bin\Debug\Count a substring of length 2 appears in a given string.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count a substring of length 2 appears in a given string\bin\Debug\Count a substring of length 2 appears in a given string.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count a substring of length 2 appears in a given string\obj\Debug\Count a substring of length 2 appears in a given string.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count a substring of length 2 appears in a given string\obj\Debug\Count a substring of length 2 appears in a given string.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count a substring of length 2 appears in a given string\obj\Debug\Count a substring of length 2 appears in a given string.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count even number of elements in a given array of integers\bin\Debug\Count even number of elements in a given array of integers.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count even number of elements in a given array of integers\bin\Debug\Count even number of elements in a given array of integers.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count even number of elements in a given array of integers\bin\Debug\Count even number of elements in a given array of integers.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count even number of elements in a given array of integers\obj\Debug\Count even number of elements in a given array of integers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count even number of elements in a given array of integers\obj\Debug\Count even number of elements in a given array of integers.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Count even number of elements in a given array of integers\obj\Debug\Count even number of elements in a given array of integers.pdb

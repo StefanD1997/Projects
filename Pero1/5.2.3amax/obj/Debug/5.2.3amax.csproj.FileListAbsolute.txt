@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Pero1\5.2.3amax\bin\Debug\5.2.3amax.exe.config
+C:\Users\Stefan\source\repos\Pero1\5.2.3amax\bin\Debug\5.2.3amax.exe
+C:\Users\Stefan\source\repos\Pero1\5.2.3amax\bin\Debug\5.2.3amax.pdb
+C:\Users\Stefan\source\repos\Pero1\5.2.3amax\obj\Debug\5.2.3amax.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Pero1\5.2.3amax\obj\Debug\5.2.3amax.exe
+C:\Users\Stefan\source\repos\Pero1\5.2.3amax\obj\Debug\5.2.3amax.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Basic Exercises\54\bin\Debug\54.exe.config
+C:\Users\Stefan\source\repos\Basic Exercises\54\bin\Debug\54.exe
+C:\Users\Stefan\source\repos\Basic Exercises\54\bin\Debug\54.pdb
+C:\Users\Stefan\source\repos\Basic Exercises\54\obj\Debug\54.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Basic Exercises\54\obj\Debug\54.exe
+C:\Users\Stefan\source\repos\Basic Exercises\54\obj\Debug\54.pdb

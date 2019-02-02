@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if the first appearance of a is immediately followed a\bin\Debug\Check if the first appearance of a is immediately followed a.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if the first appearance of a is immediately followed a\bin\Debug\Check if the first appearance of a is immediately followed a.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if the first appearance of a is immediately followed a\bin\Debug\Check if the first appearance of a is immediately followed a.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if the first appearance of a is immediately followed a\obj\Debug\Check if the first appearance of a is immediately followed a.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if the first appearance of a is immediately followed a\obj\Debug\Check if the first appearance of a is immediately followed a.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Check if the first appearance of a is immediately followed a\obj\Debug\Check if the first appearance of a is immediately followed a.pdb

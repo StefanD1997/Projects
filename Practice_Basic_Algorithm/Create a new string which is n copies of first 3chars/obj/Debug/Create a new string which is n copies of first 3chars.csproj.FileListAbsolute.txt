@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string which is n copies of first 3chars\bin\Debug\Create a new string which is n copies of first 3chars.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string which is n copies of first 3chars\bin\Debug\Create a new string which is n copies of first 3chars.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string which is n copies of first 3chars\bin\Debug\Create a new string which is n copies of first 3chars.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string which is n copies of first 3chars\obj\Debug\Create a new string which is n copies of first 3chars.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string which is n copies of first 3chars\obj\Debug\Create a new string which is n copies of first 3chars.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string which is n copies of first 3chars\obj\Debug\Create a new string which is n copies of first 3chars.pdb

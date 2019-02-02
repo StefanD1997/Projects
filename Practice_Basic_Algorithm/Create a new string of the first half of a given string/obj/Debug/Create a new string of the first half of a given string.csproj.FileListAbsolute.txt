@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string of the first half of a given string\bin\Debug\Create a new string of the first half of a given string.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string of the first half of a given string\bin\Debug\Create a new string of the first half of a given string.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string of the first half of a given string\bin\Debug\Create a new string of the first half of a given string.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string of the first half of a given string\obj\Debug\Create a new string of the first half of a given string.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string of the first half of a given string\obj\Debug\Create a new string of the first half of a given string.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a new string of the first half of a given string\obj\Debug\Create a new string of the first half of a given string.pdb

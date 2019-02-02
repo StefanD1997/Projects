@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Basic Exercises\18\bin\Debug\18.exe.config
+C:\Users\Stefan\source\repos\Basic Exercises\18\bin\Debug\18.exe
+C:\Users\Stefan\source\repos\Basic Exercises\18\bin\Debug\18.pdb
+C:\Users\Stefan\source\repos\Basic Exercises\18\obj\Debug\18.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Basic Exercises\18\obj\Debug\18.exe
+C:\Users\Stefan\source\repos\Basic Exercises\18\obj\Debug\18.pdb

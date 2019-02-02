@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Pero1\Tabela 34\bin\Debug\Tabela 34.exe.config
+C:\Users\Stefan\source\repos\Pero1\Tabela 34\bin\Debug\Tabela 34.exe
+C:\Users\Stefan\source\repos\Pero1\Tabela 34\bin\Debug\Tabela 34.pdb
+C:\Users\Stefan\source\repos\Pero1\Tabela 34\obj\Debug\Tabela 34.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Pero1\Tabela 34\obj\Debug\Tabela 34.exe
+C:\Users\Stefan\source\repos\Pero1\Tabela 34\obj\Debug\Tabela 34.pdb

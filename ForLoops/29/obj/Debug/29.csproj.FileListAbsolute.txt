@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\ForLoops\29\bin\Debug\29.exe.config
+C:\Users\Stefan\source\repos\ForLoops\29\bin\Debug\29.exe
+C:\Users\Stefan\source\repos\ForLoops\29\bin\Debug\29.pdb
+C:\Users\Stefan\source\repos\ForLoops\29\obj\Debug\29.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\ForLoops\29\obj\Debug\29.exe
+C:\Users\Stefan\source\repos\ForLoops\29\obj\Debug\29.pdb

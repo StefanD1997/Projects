@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Basic Exercises\Print the result of dividing two numbers\bin\Debug\Print the result of dividing two numbers.exe.config
+C:\Users\Stefan\source\repos\Basic Exercises\Print the result of dividing two numbers\bin\Debug\Print the result of dividing two numbers.exe
+C:\Users\Stefan\source\repos\Basic Exercises\Print the result of dividing two numbers\bin\Debug\Print the result of dividing two numbers.pdb
+C:\Users\Stefan\source\repos\Basic Exercises\Print the result of dividing two numbers\obj\Debug\3.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Basic Exercises\Print the result of dividing two numbers\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Basic Exercises\Print the result of dividing two numbers\obj\Debug\Print the result of dividing two numbers.exe
+C:\Users\Stefan\source\repos\Basic Exercises\Print the result of dividing two numbers\obj\Debug\Print the result of dividing two numbers.pdb

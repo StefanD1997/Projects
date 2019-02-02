@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create new arr of given len using the odd nums\bin\Debug\Create new arr of given len using the odd nums.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create new arr of given len using the odd nums\bin\Debug\Create new arr of given len using the odd nums.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create new arr of given len using the odd nums\bin\Debug\Create new arr of given len using the odd nums.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create new arr of given len using the odd nums\obj\Debug\Create new arr of given len using the odd nums.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create new arr of given len using the odd nums\obj\Debug\Create new arr of given len using the odd nums.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create new arr of given len using the odd nums\obj\Debug\Create new arr of given len using the odd nums.pdb

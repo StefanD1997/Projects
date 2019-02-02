@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a List from a list of ints where each int\bin\Debug\Create a List from a list of ints where each int.exe.config
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a List from a list of ints where each int\bin\Debug\Create a List from a list of ints where each int.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a List from a list of ints where each int\bin\Debug\Create a List from a list of ints where each int.pdb
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a List from a list of ints where each int\obj\Debug\Create a List from a list of ints where each int.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a List from a list of ints where each int\obj\Debug\Create a List from a list of ints where each int.exe
+C:\Users\Stefan\source\repos\Practice_Basic_Algorithm\Create a List from a list of ints where each int\obj\Debug\Create a List from a list of ints where each int.pdb
